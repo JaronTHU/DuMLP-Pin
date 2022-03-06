@@ -1,0 +1,269 @@
+2021-12-05 09:44:45,477 - main.py[line:123] - INFO: Epoch: 1  ; eval OA: 76.54%; eval mAcc: 66.40%; train OA: 68.51%; train mAcc: 53.89%
+2021-12-05 09:44:45,485 - main.py[line:128] - INFO: New best model is achieved at epoch 1 with eval OA as 76.54%
+2021-12-05 09:45:08,571 - main.py[line:123] - INFO: Epoch: 2  ; eval OA: 82.50%; eval mAcc: 74.99%; train OA: 81.84%; train mAcc: 72.69%
+2021-12-05 09:45:08,579 - main.py[line:128] - INFO: New best model is achieved at epoch 2 with eval OA as 82.50%
+2021-12-05 09:45:31,740 - main.py[line:123] - INFO: Epoch: 3  ; eval OA: 87.40%; eval mAcc: 81.58%; train OA: 84.34%; train mAcc: 76.85%
+2021-12-05 09:45:31,748 - main.py[line:128] - INFO: New best model is achieved at epoch 3 with eval OA as 87.40%
+2021-12-05 09:45:54,643 - main.py[line:123] - INFO: Epoch: 4  ; eval OA: 85.74%; eval mAcc: 81.20%; train OA: 86.79%; train mAcc: 80.42%
+2021-12-05 09:46:17,562 - main.py[line:123] - INFO: Epoch: 5  ; eval OA: 87.88%; eval mAcc: 82.98%; train OA: 88.36%; train mAcc: 82.67%
+2021-12-05 09:46:17,568 - main.py[line:128] - INFO: New best model is achieved at epoch 5 with eval OA as 87.88%
+2021-12-05 09:46:40,448 - main.py[line:123] - INFO: Epoch: 6  ; eval OA: 88.74%; eval mAcc: 84.14%; train OA: 88.87%; train mAcc: 83.73%
+2021-12-05 09:46:40,454 - main.py[line:128] - INFO: New best model is achieved at epoch 6 with eval OA as 88.74%
+2021-12-05 09:47:03,327 - main.py[line:123] - INFO: Epoch: 7  ; eval OA: 88.37%; eval mAcc: 83.87%; train OA: 89.45%; train mAcc: 84.42%
+2021-12-05 09:47:26,201 - main.py[line:123] - INFO: Epoch: 8  ; eval OA: 89.22%; eval mAcc: 85.20%; train OA: 89.98%; train mAcc: 85.16%
+2021-12-05 09:47:26,206 - main.py[line:128] - INFO: New best model is achieved at epoch 8 with eval OA as 89.22%
+2021-12-05 09:47:49,088 - main.py[line:123] - INFO: Epoch: 9  ; eval OA: 90.07%; eval mAcc: 85.11%; train OA: 90.23%; train mAcc: 86.05%
+2021-12-05 09:47:49,094 - main.py[line:128] - INFO: New best model is achieved at epoch 9 with eval OA as 90.07%
+2021-12-05 09:48:11,976 - main.py[line:123] - INFO: Epoch: 10 ; eval OA: 89.14%; eval mAcc: 84.54%; train OA: 90.85%; train mAcc: 87.00%
+2021-12-05 09:48:34,845 - main.py[line:123] - INFO: Epoch: 11 ; eval OA: 88.78%; eval mAcc: 83.92%; train OA: 91.24%; train mAcc: 87.15%
+2021-12-05 09:48:57,720 - main.py[line:123] - INFO: Epoch: 12 ; eval OA: 90.11%; eval mAcc: 85.90%; train OA: 91.73%; train mAcc: 88.00%
+2021-12-05 09:48:57,726 - main.py[line:128] - INFO: New best model is achieved at epoch 12 with eval OA as 90.11%
+2021-12-05 09:49:20,607 - main.py[line:123] - INFO: Epoch: 13 ; eval OA: 90.48%; eval mAcc: 86.60%; train OA: 91.89%; train mAcc: 87.99%
+2021-12-05 09:49:20,613 - main.py[line:128] - INFO: New best model is achieved at epoch 13 with eval OA as 90.48%
+2021-12-05 09:49:43,478 - main.py[line:123] - INFO: Epoch: 14 ; eval OA: 90.07%; eval mAcc: 85.86%; train OA: 92.06%; train mAcc: 88.21%
+2021-12-05 09:50:06,357 - main.py[line:123] - INFO: Epoch: 15 ; eval OA: 89.55%; eval mAcc: 84.82%; train OA: 92.24%; train mAcc: 88.97%
+2021-12-05 09:50:29,225 - main.py[line:123] - INFO: Epoch: 16 ; eval OA: 89.59%; eval mAcc: 85.15%; train OA: 92.72%; train mAcc: 89.33%
+2021-12-05 09:50:52,094 - main.py[line:123] - INFO: Epoch: 17 ; eval OA: 89.79%; eval mAcc: 86.01%; train OA: 92.78%; train mAcc: 89.67%
+2021-12-05 09:51:14,979 - main.py[line:123] - INFO: Epoch: 18 ; eval OA: 90.48%; eval mAcc: 87.07%; train OA: 93.05%; train mAcc: 89.87%
+2021-12-05 09:51:37,873 - main.py[line:123] - INFO: Epoch: 19 ; eval OA: 89.34%; eval mAcc: 85.54%; train OA: 93.41%; train mAcc: 90.27%
+2021-12-05 09:52:00,752 - main.py[line:123] - INFO: Epoch: 20 ; eval OA: 90.52%; eval mAcc: 86.67%; train OA: 93.56%; train mAcc: 90.56%
+2021-12-05 09:52:00,757 - main.py[line:128] - INFO: New best model is achieved at epoch 20 with eval OA as 90.52%
+2021-12-05 09:52:23,628 - main.py[line:123] - INFO: Epoch: 21 ; eval OA: 90.84%; eval mAcc: 86.42%; train OA: 93.58%; train mAcc: 90.61%
+2021-12-05 09:52:23,633 - main.py[line:128] - INFO: New best model is achieved at epoch 21 with eval OA as 90.84%
+2021-12-05 09:52:46,501 - main.py[line:123] - INFO: Epoch: 22 ; eval OA: 90.24%; eval mAcc: 86.35%; train OA: 93.49%; train mAcc: 90.62%
+2021-12-05 09:53:09,368 - main.py[line:123] - INFO: Epoch: 23 ; eval OA: 90.52%; eval mAcc: 87.13%; train OA: 93.80%; train mAcc: 91.00%
+2021-12-05 09:53:32,238 - main.py[line:123] - INFO: Epoch: 24 ; eval OA: 90.24%; eval mAcc: 86.01%; train OA: 94.31%; train mAcc: 91.94%
+2021-12-05 09:53:55,110 - main.py[line:123] - INFO: Epoch: 25 ; eval OA: 91.09%; eval mAcc: 86.74%; train OA: 94.02%; train mAcc: 91.36%
+2021-12-05 09:53:55,116 - main.py[line:128] - INFO: New best model is achieved at epoch 25 with eval OA as 91.09%
+2021-12-05 09:54:17,985 - main.py[line:123] - INFO: Epoch: 26 ; eval OA: 91.00%; eval mAcc: 85.92%; train OA: 93.79%; train mAcc: 91.01%
+2021-12-05 09:54:40,857 - main.py[line:123] - INFO: Epoch: 27 ; eval OA: 90.60%; eval mAcc: 85.86%; train OA: 94.09%; train mAcc: 91.47%
+2021-12-05 09:55:03,723 - main.py[line:123] - INFO: Epoch: 28 ; eval OA: 90.19%; eval mAcc: 86.67%; train OA: 94.47%; train mAcc: 92.02%
+2021-12-05 09:55:26,581 - main.py[line:123] - INFO: Epoch: 29 ; eval OA: 91.05%; eval mAcc: 86.47%; train OA: 94.86%; train mAcc: 92.64%
+2021-12-05 09:55:49,449 - main.py[line:123] - INFO: Epoch: 30 ; eval OA: 90.19%; eval mAcc: 86.41%; train OA: 94.55%; train mAcc: 91.80%
+2021-12-05 09:56:12,310 - main.py[line:123] - INFO: Epoch: 31 ; eval OA: 90.60%; eval mAcc: 85.88%; train OA: 95.04%; train mAcc: 92.82%
+2021-12-05 09:56:35,189 - main.py[line:123] - INFO: Epoch: 32 ; eval OA: 89.95%; eval mAcc: 86.18%; train OA: 95.09%; train mAcc: 92.83%
+2021-12-05 09:56:58,059 - main.py[line:123] - INFO: Epoch: 33 ; eval OA: 90.24%; eval mAcc: 87.16%; train OA: 95.04%; train mAcc: 92.83%
+2021-12-05 09:57:20,948 - main.py[line:123] - INFO: Epoch: 34 ; eval OA: 90.40%; eval mAcc: 86.45%; train OA: 94.97%; train mAcc: 92.62%
+2021-12-05 09:57:43,817 - main.py[line:123] - INFO: Epoch: 35 ; eval OA: 90.48%; eval mAcc: 87.42%; train OA: 95.08%; train mAcc: 92.85%
+2021-12-05 09:58:06,704 - main.py[line:123] - INFO: Epoch: 36 ; eval OA: 90.40%; eval mAcc: 86.64%; train OA: 95.50%; train mAcc: 93.46%
+2021-12-05 09:58:29,579 - main.py[line:123] - INFO: Epoch: 37 ; eval OA: 90.76%; eval mAcc: 87.15%; train OA: 95.26%; train mAcc: 93.25%
+2021-12-05 09:58:52,446 - main.py[line:123] - INFO: Epoch: 38 ; eval OA: 90.44%; eval mAcc: 86.78%; train OA: 95.49%; train mAcc: 93.47%
+2021-12-05 09:59:15,311 - main.py[line:123] - INFO: Epoch: 39 ; eval OA: 90.11%; eval mAcc: 86.89%; train OA: 95.59%; train mAcc: 93.84%
+2021-12-05 09:59:38,178 - main.py[line:123] - INFO: Epoch: 40 ; eval OA: 89.99%; eval mAcc: 86.62%; train OA: 95.31%; train mAcc: 93.14%
+2021-12-05 10:00:01,047 - main.py[line:123] - INFO: Epoch: 41 ; eval OA: 89.83%; eval mAcc: 86.92%; train OA: 95.62%; train mAcc: 93.87%
+2021-12-05 10:00:23,928 - main.py[line:123] - INFO: Epoch: 42 ; eval OA: 90.19%; eval mAcc: 85.82%; train OA: 95.71%; train mAcc: 93.88%
+2021-12-05 10:00:46,803 - main.py[line:123] - INFO: Epoch: 43 ; eval OA: 91.17%; eval mAcc: 87.62%; train OA: 95.77%; train mAcc: 93.94%
+2021-12-05 10:00:46,809 - main.py[line:128] - INFO: New best model is achieved at epoch 43 with eval OA as 91.17%
+2021-12-05 10:01:09,682 - main.py[line:123] - INFO: Epoch: 44 ; eval OA: 90.07%; eval mAcc: 86.77%; train OA: 95.61%; train mAcc: 93.79%
+2021-12-05 10:01:32,564 - main.py[line:123] - INFO: Epoch: 45 ; eval OA: 91.53%; eval mAcc: 87.86%; train OA: 96.31%; train mAcc: 94.73%
+2021-12-05 10:01:32,570 - main.py[line:128] - INFO: New best model is achieved at epoch 45 with eval OA as 91.53%
+2021-12-05 10:01:55,439 - main.py[line:123] - INFO: Epoch: 46 ; eval OA: 91.82%; eval mAcc: 88.15%; train OA: 95.92%; train mAcc: 94.12%
+2021-12-05 10:01:55,445 - main.py[line:128] - INFO: New best model is achieved at epoch 46 with eval OA as 91.82%
+2021-12-05 10:02:18,325 - main.py[line:123] - INFO: Epoch: 47 ; eval OA: 90.56%; eval mAcc: 86.46%; train OA: 96.11%; train mAcc: 94.35%
+2021-12-05 10:02:41,205 - main.py[line:123] - INFO: Epoch: 48 ; eval OA: 90.40%; eval mAcc: 85.19%; train OA: 96.13%; train mAcc: 94.50%
+2021-12-05 10:03:04,084 - main.py[line:123] - INFO: Epoch: 49 ; eval OA: 91.13%; eval mAcc: 86.99%; train OA: 95.96%; train mAcc: 94.00%
+2021-12-05 10:03:26,950 - main.py[line:123] - INFO: Epoch: 50 ; eval OA: 90.84%; eval mAcc: 87.01%; train OA: 96.24%; train mAcc: 94.77%
+2021-12-05 10:03:49,815 - main.py[line:123] - INFO: Epoch: 51 ; eval OA: 91.17%; eval mAcc: 87.12%; train OA: 96.07%; train mAcc: 94.34%
+2021-12-05 10:04:12,681 - main.py[line:123] - INFO: Epoch: 52 ; eval OA: 90.68%; eval mAcc: 86.07%; train OA: 96.29%; train mAcc: 94.48%
+2021-12-05 10:04:35,573 - main.py[line:123] - INFO: Epoch: 53 ; eval OA: 90.84%; eval mAcc: 86.95%; train OA: 96.32%; train mAcc: 94.74%
+2021-12-05 10:04:58,444 - main.py[line:123] - INFO: Epoch: 54 ; eval OA: 90.60%; eval mAcc: 86.85%; train OA: 96.31%; train mAcc: 94.65%
+2021-12-05 10:05:21,309 - main.py[line:123] - INFO: Epoch: 55 ; eval OA: 91.41%; eval mAcc: 86.62%; train OA: 96.02%; train mAcc: 94.48%
+2021-12-05 10:05:44,176 - main.py[line:123] - INFO: Epoch: 56 ; eval OA: 91.00%; eval mAcc: 86.41%; train OA: 96.39%; train mAcc: 94.76%
+2021-12-05 10:06:07,086 - main.py[line:123] - INFO: Epoch: 57 ; eval OA: 91.41%; eval mAcc: 87.17%; train OA: 96.35%; train mAcc: 94.64%
+2021-12-05 10:06:29,978 - main.py[line:123] - INFO: Epoch: 58 ; eval OA: 90.76%; eval mAcc: 86.80%; train OA: 96.48%; train mAcc: 94.98%
+2021-12-05 10:06:52,874 - main.py[line:123] - INFO: Epoch: 59 ; eval OA: 91.57%; eval mAcc: 88.21%; train OA: 96.45%; train mAcc: 95.09%
+2021-12-05 10:07:15,757 - main.py[line:123] - INFO: Epoch: 60 ; eval OA: 91.37%; eval mAcc: 88.08%; train OA: 96.46%; train mAcc: 95.05%
+2021-12-05 10:07:38,633 - main.py[line:123] - INFO: Epoch: 61 ; eval OA: 91.37%; eval mAcc: 87.09%; train OA: 96.59%; train mAcc: 94.88%
+2021-12-05 10:08:01,515 - main.py[line:123] - INFO: Epoch: 62 ; eval OA: 91.33%; eval mAcc: 87.67%; train OA: 96.72%; train mAcc: 95.24%
+2021-12-05 10:08:24,397 - main.py[line:123] - INFO: Epoch: 63 ; eval OA: 90.76%; eval mAcc: 87.09%; train OA: 96.66%; train mAcc: 95.22%
+2021-12-05 10:08:47,281 - main.py[line:123] - INFO: Epoch: 64 ; eval OA: 89.79%; eval mAcc: 86.70%; train OA: 96.65%; train mAcc: 95.09%
+2021-12-05 10:09:10,161 - main.py[line:123] - INFO: Epoch: 65 ; eval OA: 90.64%; eval mAcc: 86.32%; train OA: 96.87%; train mAcc: 95.38%
+2021-12-05 10:09:33,040 - main.py[line:123] - INFO: Epoch: 66 ; eval OA: 90.15%; eval mAcc: 86.60%; train OA: 96.68%; train mAcc: 95.35%
+2021-12-05 10:09:55,955 - main.py[line:123] - INFO: Epoch: 67 ; eval OA: 91.21%; eval mAcc: 87.35%; train OA: 96.90%; train mAcc: 95.68%
+2021-12-05 10:10:18,847 - main.py[line:123] - INFO: Epoch: 68 ; eval OA: 90.32%; eval mAcc: 86.35%; train OA: 96.97%; train mAcc: 95.72%
+2021-12-05 10:10:41,730 - main.py[line:123] - INFO: Epoch: 69 ; eval OA: 91.77%; eval mAcc: 87.85%; train OA: 97.00%; train mAcc: 95.69%
+2021-12-05 10:11:04,613 - main.py[line:123] - INFO: Epoch: 70 ; eval OA: 91.13%; eval mAcc: 87.40%; train OA: 96.99%; train mAcc: 95.61%
+2021-12-05 10:11:27,506 - main.py[line:123] - INFO: Epoch: 71 ; eval OA: 90.64%; eval mAcc: 87.20%; train OA: 96.90%; train mAcc: 95.59%
+2021-12-05 10:11:50,440 - main.py[line:123] - INFO: Epoch: 72 ; eval OA: 91.13%; eval mAcc: 87.12%; train OA: 96.85%; train mAcc: 95.41%
+2021-12-05 10:12:13,361 - main.py[line:123] - INFO: Epoch: 73 ; eval OA: 91.25%; eval mAcc: 87.33%; train OA: 97.27%; train mAcc: 96.02%
+2021-12-05 10:12:36,274 - main.py[line:123] - INFO: Epoch: 74 ; eval OA: 91.17%; eval mAcc: 86.44%; train OA: 97.02%; train mAcc: 95.74%
+2021-12-05 10:12:59,170 - main.py[line:123] - INFO: Epoch: 75 ; eval OA: 91.25%; eval mAcc: 87.28%; train OA: 97.23%; train mAcc: 95.87%
+2021-12-05 10:13:22,064 - main.py[line:123] - INFO: Epoch: 76 ; eval OA: 90.84%; eval mAcc: 87.36%; train OA: 97.16%; train mAcc: 96.00%
+2021-12-05 10:13:44,980 - main.py[line:123] - INFO: Epoch: 77 ; eval OA: 91.29%; eval mAcc: 87.92%; train OA: 97.02%; train mAcc: 95.74%
+2021-12-05 10:14:07,854 - main.py[line:123] - INFO: Epoch: 78 ; eval OA: 90.76%; eval mAcc: 87.11%; train OA: 97.16%; train mAcc: 95.88%
+2021-12-05 10:14:30,779 - main.py[line:123] - INFO: Epoch: 79 ; eval OA: 90.48%; eval mAcc: 87.06%; train OA: 97.12%; train mAcc: 95.82%
+2021-12-05 10:14:53,708 - main.py[line:123] - INFO: Epoch: 80 ; eval OA: 91.00%; eval mAcc: 87.17%; train OA: 97.21%; train mAcc: 95.86%
+2021-12-05 10:15:16,603 - main.py[line:123] - INFO: Epoch: 81 ; eval OA: 90.92%; eval mAcc: 87.76%; train OA: 97.29%; train mAcc: 96.00%
+2021-12-05 10:15:39,481 - main.py[line:123] - INFO: Epoch: 82 ; eval OA: 90.11%; eval mAcc: 86.11%; train OA: 97.24%; train mAcc: 96.24%
+2021-12-05 10:16:02,394 - main.py[line:123] - INFO: Epoch: 83 ; eval OA: 90.76%; eval mAcc: 86.50%; train OA: 97.33%; train mAcc: 96.17%
+2021-12-05 10:16:25,298 - main.py[line:123] - INFO: Epoch: 84 ; eval OA: 91.13%; eval mAcc: 87.22%; train OA: 97.33%; train mAcc: 96.08%
+2021-12-05 10:16:48,157 - main.py[line:123] - INFO: Epoch: 85 ; eval OA: 91.69%; eval mAcc: 87.38%; train OA: 97.30%; train mAcc: 96.10%
+2021-12-05 10:17:11,023 - main.py[line:123] - INFO: Epoch: 86 ; eval OA: 90.44%; eval mAcc: 87.05%; train OA: 97.30%; train mAcc: 96.19%
+2021-12-05 10:17:33,931 - main.py[line:123] - INFO: Epoch: 87 ; eval OA: 91.29%; eval mAcc: 87.30%; train OA: 97.28%; train mAcc: 96.04%
+2021-12-05 10:17:56,803 - main.py[line:123] - INFO: Epoch: 88 ; eval OA: 90.76%; eval mAcc: 86.68%; train OA: 97.43%; train mAcc: 96.35%
+2021-12-05 10:18:19,676 - main.py[line:123] - INFO: Epoch: 89 ; eval OA: 90.60%; eval mAcc: 86.53%; train OA: 97.41%; train mAcc: 96.35%
+2021-12-05 10:18:42,546 - main.py[line:123] - INFO: Epoch: 90 ; eval OA: 91.65%; eval mAcc: 87.64%; train OA: 97.36%; train mAcc: 96.24%
+2021-12-05 10:19:05,422 - main.py[line:123] - INFO: Epoch: 91 ; eval OA: 91.57%; eval mAcc: 87.99%; train OA: 97.53%; train mAcc: 96.57%
+2021-12-05 10:19:28,287 - main.py[line:123] - INFO: Epoch: 92 ; eval OA: 90.84%; eval mAcc: 86.35%; train OA: 97.40%; train mAcc: 96.30%
+2021-12-05 10:19:51,155 - main.py[line:123] - INFO: Epoch: 93 ; eval OA: 91.21%; eval mAcc: 87.67%; train OA: 97.38%; train mAcc: 96.38%
+2021-12-05 10:20:14,020 - main.py[line:123] - INFO: Epoch: 94 ; eval OA: 91.21%; eval mAcc: 86.97%; train OA: 97.53%; train mAcc: 96.55%
+2021-12-05 10:20:36,890 - main.py[line:123] - INFO: Epoch: 95 ; eval OA: 90.84%; eval mAcc: 86.41%; train OA: 97.39%; train mAcc: 96.24%
+2021-12-05 10:20:59,801 - main.py[line:123] - INFO: Epoch: 96 ; eval OA: 91.49%; eval mAcc: 88.32%; train OA: 97.50%; train mAcc: 96.31%
+2021-12-05 10:21:22,677 - main.py[line:123] - INFO: Epoch: 97 ; eval OA: 91.98%; eval mAcc: 87.85%; train OA: 97.56%; train mAcc: 96.51%
+2021-12-05 10:21:22,683 - main.py[line:128] - INFO: New best model is achieved at epoch 97 with eval OA as 91.98%
+2021-12-05 10:21:45,597 - main.py[line:123] - INFO: Epoch: 98 ; eval OA: 91.21%; eval mAcc: 87.57%; train OA: 97.52%; train mAcc: 96.56%
+2021-12-05 10:22:08,489 - main.py[line:123] - INFO: Epoch: 99 ; eval OA: 91.17%; eval mAcc: 86.83%; train OA: 97.67%; train mAcc: 96.63%
+2021-12-05 10:22:31,343 - main.py[line:123] - INFO: Epoch: 100; eval OA: 91.45%; eval mAcc: 87.22%; train OA: 97.58%; train mAcc: 96.50%
+2021-12-05 10:22:54,214 - main.py[line:123] - INFO: Epoch: 101; eval OA: 91.33%; eval mAcc: 87.75%; train OA: 97.61%; train mAcc: 96.38%
+2021-12-05 10:23:17,067 - main.py[line:123] - INFO: Epoch: 102; eval OA: 91.45%; eval mAcc: 87.71%; train OA: 97.72%; train mAcc: 96.64%
+2021-12-05 10:23:39,962 - main.py[line:123] - INFO: Epoch: 103; eval OA: 91.21%; eval mAcc: 87.32%; train OA: 97.67%; train mAcc: 96.60%
+2021-12-05 10:24:02,871 - main.py[line:123] - INFO: Epoch: 104; eval OA: 91.37%; eval mAcc: 87.14%; train OA: 97.82%; train mAcc: 96.96%
+2021-12-05 10:24:25,771 - main.py[line:123] - INFO: Epoch: 105; eval OA: 91.49%; eval mAcc: 87.31%; train OA: 97.61%; train mAcc: 96.57%
+2021-12-05 10:24:48,642 - main.py[line:123] - INFO: Epoch: 106; eval OA: 91.57%; eval mAcc: 87.66%; train OA: 97.71%; train mAcc: 96.60%
+2021-12-05 10:25:11,500 - main.py[line:123] - INFO: Epoch: 107; eval OA: 91.53%; eval mAcc: 88.06%; train OA: 97.52%; train mAcc: 96.51%
+2021-12-05 10:25:34,392 - main.py[line:123] - INFO: Epoch: 108; eval OA: 91.57%; eval mAcc: 87.92%; train OA: 97.85%; train mAcc: 96.88%
+2021-12-05 10:25:57,316 - main.py[line:123] - INFO: Epoch: 109; eval OA: 91.13%; eval mAcc: 87.39%; train OA: 97.79%; train mAcc: 96.75%
+2021-12-05 10:26:20,177 - main.py[line:123] - INFO: Epoch: 110; eval OA: 91.65%; eval mAcc: 87.68%; train OA: 97.84%; train mAcc: 96.87%
+2021-12-05 10:26:43,057 - main.py[line:123] - INFO: Epoch: 111; eval OA: 91.25%; eval mAcc: 86.98%; train OA: 97.82%; train mAcc: 96.84%
+2021-12-05 10:27:05,956 - main.py[line:123] - INFO: Epoch: 112; eval OA: 91.29%; eval mAcc: 87.73%; train OA: 98.00%; train mAcc: 97.13%
+2021-12-05 10:27:28,820 - main.py[line:123] - INFO: Epoch: 113; eval OA: 91.61%; eval mAcc: 87.71%; train OA: 97.85%; train mAcc: 96.86%
+2021-12-05 10:27:51,729 - main.py[line:123] - INFO: Epoch: 114; eval OA: 91.57%; eval mAcc: 88.48%; train OA: 97.97%; train mAcc: 97.05%
+2021-12-05 10:28:14,607 - main.py[line:123] - INFO: Epoch: 115; eval OA: 91.61%; eval mAcc: 88.01%; train OA: 97.97%; train mAcc: 97.11%
+2021-12-05 10:28:37,510 - main.py[line:123] - INFO: Epoch: 116; eval OA: 90.84%; eval mAcc: 86.82%; train OA: 97.91%; train mAcc: 97.06%
+2021-12-05 10:29:00,367 - main.py[line:123] - INFO: Epoch: 117; eval OA: 90.96%; eval mAcc: 87.56%; train OA: 97.86%; train mAcc: 96.78%
+2021-12-05 10:29:23,227 - main.py[line:123] - INFO: Epoch: 118; eval OA: 91.21%; eval mAcc: 87.79%; train OA: 97.74%; train mAcc: 96.59%
+2021-12-05 10:29:46,121 - main.py[line:123] - INFO: Epoch: 119; eval OA: 91.25%; eval mAcc: 86.97%; train OA: 97.87%; train mAcc: 96.89%
+2021-12-05 10:30:09,014 - main.py[line:123] - INFO: Epoch: 120; eval OA: 91.69%; eval mAcc: 88.28%; train OA: 97.68%; train mAcc: 96.87%
+2021-12-05 10:30:31,878 - main.py[line:123] - INFO: Epoch: 121; eval OA: 91.13%; eval mAcc: 86.80%; train OA: 97.53%; train mAcc: 96.44%
+2021-12-05 10:30:54,789 - main.py[line:123] - INFO: Epoch: 122; eval OA: 91.73%; eval mAcc: 87.62%; train OA: 97.83%; train mAcc: 96.79%
+2021-12-05 10:31:17,635 - main.py[line:123] - INFO: Epoch: 123; eval OA: 90.48%; eval mAcc: 87.22%; train OA: 98.03%; train mAcc: 97.18%
+2021-12-05 10:31:40,444 - main.py[line:123] - INFO: Epoch: 124; eval OA: 91.57%; eval mAcc: 87.20%; train OA: 97.97%; train mAcc: 97.20%
+2021-12-05 10:32:03,264 - main.py[line:123] - INFO: Epoch: 125; eval OA: 91.33%; eval mAcc: 87.02%; train OA: 98.16%; train mAcc: 97.49%
+2021-12-05 10:32:26,097 - main.py[line:123] - INFO: Epoch: 126; eval OA: 91.21%; eval mAcc: 87.89%; train OA: 97.90%; train mAcc: 97.00%
+2021-12-05 10:32:48,951 - main.py[line:123] - INFO: Epoch: 127; eval OA: 91.17%; eval mAcc: 87.32%; train OA: 98.16%; train mAcc: 97.43%
+2021-12-05 10:33:11,770 - main.py[line:123] - INFO: Epoch: 128; eval OA: 91.17%; eval mAcc: 86.72%; train OA: 98.01%; train mAcc: 97.07%
+2021-12-05 10:33:34,581 - main.py[line:123] - INFO: Epoch: 129; eval OA: 91.98%; eval mAcc: 88.04%; train OA: 98.05%; train mAcc: 97.23%
+2021-12-05 10:33:57,443 - main.py[line:123] - INFO: Epoch: 130; eval OA: 91.25%; eval mAcc: 87.88%; train OA: 97.94%; train mAcc: 97.01%
+2021-12-05 10:34:20,310 - main.py[line:123] - INFO: Epoch: 131; eval OA: 91.00%; eval mAcc: 86.94%; train OA: 98.07%; train mAcc: 97.28%
+2021-12-05 10:34:43,193 - main.py[line:123] - INFO: Epoch: 132; eval OA: 91.21%; eval mAcc: 87.32%; train OA: 98.01%; train mAcc: 97.12%
+2021-12-05 10:35:06,046 - main.py[line:123] - INFO: Epoch: 133; eval OA: 91.41%; eval mAcc: 87.57%; train OA: 98.15%; train mAcc: 97.26%
+2021-12-05 10:35:28,915 - main.py[line:123] - INFO: Epoch: 134; eval OA: 91.29%; eval mAcc: 87.11%; train OA: 97.97%; train mAcc: 97.15%
+2021-12-05 10:35:51,748 - main.py[line:123] - INFO: Epoch: 135; eval OA: 91.00%; eval mAcc: 86.72%; train OA: 97.88%; train mAcc: 97.13%
+2021-12-05 10:36:14,583 - main.py[line:123] - INFO: Epoch: 136; eval OA: 92.22%; eval mAcc: 88.19%; train OA: 97.88%; train mAcc: 97.01%
+2021-12-05 10:36:14,589 - main.py[line:128] - INFO: New best model is achieved at epoch 136 with eval OA as 92.22%
+2021-12-05 10:36:37,415 - main.py[line:123] - INFO: Epoch: 137; eval OA: 91.33%; eval mAcc: 88.03%; train OA: 98.27%; train mAcc: 97.63%
+2021-12-05 10:37:00,238 - main.py[line:123] - INFO: Epoch: 138; eval OA: 90.40%; eval mAcc: 86.20%; train OA: 98.29%; train mAcc: 97.72%
+2021-12-05 10:37:23,070 - main.py[line:123] - INFO: Epoch: 139; eval OA: 90.68%; eval mAcc: 87.39%; train OA: 98.17%; train mAcc: 97.27%
+2021-12-05 10:37:45,894 - main.py[line:123] - INFO: Epoch: 140; eval OA: 91.09%; eval mAcc: 87.07%; train OA: 98.06%; train mAcc: 97.31%
+2021-12-05 10:38:08,729 - main.py[line:123] - INFO: Epoch: 141; eval OA: 91.17%; eval mAcc: 87.15%; train OA: 98.29%; train mAcc: 97.52%
+2021-12-05 10:38:31,551 - main.py[line:123] - INFO: Epoch: 142; eval OA: 90.96%; eval mAcc: 87.13%; train OA: 98.20%; train mAcc: 97.39%
+2021-12-05 10:38:54,372 - main.py[line:123] - INFO: Epoch: 143; eval OA: 91.00%; eval mAcc: 87.52%; train OA: 98.03%; train mAcc: 97.27%
+2021-12-05 10:39:17,193 - main.py[line:123] - INFO: Epoch: 144; eval OA: 91.05%; eval mAcc: 87.48%; train OA: 98.20%; train mAcc: 97.63%
+2021-12-05 10:39:40,011 - main.py[line:123] - INFO: Epoch: 145; eval OA: 90.84%; eval mAcc: 87.10%; train OA: 98.30%; train mAcc: 97.68%
+2021-12-05 10:40:02,826 - main.py[line:123] - INFO: Epoch: 146; eval OA: 90.72%; eval mAcc: 87.16%; train OA: 98.12%; train mAcc: 97.42%
+2021-12-05 10:40:25,641 - main.py[line:123] - INFO: Epoch: 147; eval OA: 91.73%; eval mAcc: 87.49%; train OA: 98.10%; train mAcc: 97.31%
+2021-12-05 10:40:48,446 - main.py[line:123] - INFO: Epoch: 148; eval OA: 91.57%; eval mAcc: 87.93%; train OA: 98.10%; train mAcc: 97.35%
+2021-12-05 10:41:11,256 - main.py[line:123] - INFO: Epoch: 149; eval OA: 91.00%; eval mAcc: 87.03%; train OA: 98.28%; train mAcc: 97.49%
+2021-12-05 10:41:34,068 - main.py[line:123] - INFO: Epoch: 150; eval OA: 90.96%; eval mAcc: 86.42%; train OA: 97.99%; train mAcc: 97.18%
+2021-12-05 10:41:56,878 - main.py[line:123] - INFO: Epoch: 151; eval OA: 90.48%; eval mAcc: 86.90%; train OA: 98.22%; train mAcc: 97.46%
+2021-12-05 10:42:19,683 - main.py[line:123] - INFO: Epoch: 152; eval OA: 91.37%; eval mAcc: 87.46%; train OA: 97.96%; train mAcc: 97.13%
+2021-12-05 10:42:42,509 - main.py[line:123] - INFO: Epoch: 153; eval OA: 91.25%; eval mAcc: 87.40%; train OA: 98.12%; train mAcc: 97.32%
+2021-12-05 10:43:05,315 - main.py[line:123] - INFO: Epoch: 154; eval OA: 91.21%; eval mAcc: 86.96%; train OA: 98.40%; train mAcc: 97.71%
+2021-12-05 10:43:28,135 - main.py[line:123] - INFO: Epoch: 155; eval OA: 91.09%; eval mAcc: 87.81%; train OA: 98.34%; train mAcc: 97.56%
+2021-12-05 10:43:50,944 - main.py[line:123] - INFO: Epoch: 156; eval OA: 90.76%; eval mAcc: 87.01%; train OA: 98.31%; train mAcc: 97.81%
+2021-12-05 10:44:13,757 - main.py[line:123] - INFO: Epoch: 157; eval OA: 91.65%; eval mAcc: 88.05%; train OA: 98.22%; train mAcc: 97.51%
+2021-12-05 10:44:36,569 - main.py[line:123] - INFO: Epoch: 158; eval OA: 91.13%; eval mAcc: 87.48%; train OA: 98.27%; train mAcc: 97.48%
+2021-12-05 10:44:59,388 - main.py[line:123] - INFO: Epoch: 159; eval OA: 91.53%; eval mAcc: 87.08%; train OA: 98.43%; train mAcc: 97.70%
+2021-12-05 10:45:22,208 - main.py[line:123] - INFO: Epoch: 160; eval OA: 91.65%; eval mAcc: 87.52%; train OA: 98.21%; train mAcc: 97.36%
+2021-12-05 10:45:45,037 - main.py[line:123] - INFO: Epoch: 161; eval OA: 91.94%; eval mAcc: 87.42%; train OA: 98.37%; train mAcc: 97.73%
+2021-12-05 10:46:07,860 - main.py[line:123] - INFO: Epoch: 162; eval OA: 91.57%; eval mAcc: 87.62%; train OA: 98.39%; train mAcc: 97.90%
+2021-12-05 10:46:30,685 - main.py[line:123] - INFO: Epoch: 163; eval OA: 91.29%; eval mAcc: 87.20%; train OA: 98.33%; train mAcc: 97.72%
+2021-12-05 10:46:53,520 - main.py[line:123] - INFO: Epoch: 164; eval OA: 90.88%; eval mAcc: 87.36%; train OA: 98.11%; train mAcc: 97.45%
+2021-12-05 10:47:16,337 - main.py[line:123] - INFO: Epoch: 165; eval OA: 91.65%; eval mAcc: 87.76%; train OA: 98.39%; train mAcc: 97.77%
+2021-12-05 10:47:39,156 - main.py[line:123] - INFO: Epoch: 166; eval OA: 91.00%; eval mAcc: 88.17%; train OA: 98.42%; train mAcc: 97.89%
+2021-12-05 10:48:01,968 - main.py[line:123] - INFO: Epoch: 167; eval OA: 91.00%; eval mAcc: 87.00%; train OA: 98.24%; train mAcc: 97.51%
+2021-12-05 10:48:24,798 - main.py[line:123] - INFO: Epoch: 168; eval OA: 91.57%; eval mAcc: 87.70%; train OA: 98.31%; train mAcc: 97.62%
+2021-12-05 10:48:47,631 - main.py[line:123] - INFO: Epoch: 169; eval OA: 91.41%; eval mAcc: 87.91%; train OA: 98.35%; train mAcc: 97.68%
+2021-12-05 10:49:10,454 - main.py[line:123] - INFO: Epoch: 170; eval OA: 91.49%; eval mAcc: 87.69%; train OA: 98.34%; train mAcc: 97.65%
+2021-12-05 10:49:33,266 - main.py[line:123] - INFO: Epoch: 171; eval OA: 91.09%; eval mAcc: 87.27%; train OA: 98.37%; train mAcc: 97.80%
+2021-12-05 10:49:56,120 - main.py[line:123] - INFO: Epoch: 172; eval OA: 91.65%; eval mAcc: 87.62%; train OA: 98.18%; train mAcc: 97.48%
+2021-12-05 10:50:18,974 - main.py[line:123] - INFO: Epoch: 173; eval OA: 91.13%; eval mAcc: 87.63%; train OA: 98.23%; train mAcc: 97.31%
+2021-12-05 10:50:41,832 - main.py[line:123] - INFO: Epoch: 174; eval OA: 91.86%; eval mAcc: 88.18%; train OA: 98.46%; train mAcc: 97.81%
+2021-12-05 10:51:04,662 - main.py[line:123] - INFO: Epoch: 175; eval OA: 90.76%; eval mAcc: 86.97%; train OA: 98.57%; train mAcc: 97.98%
+2021-12-05 10:51:27,506 - main.py[line:123] - INFO: Epoch: 176; eval OA: 90.96%; eval mAcc: 87.21%; train OA: 98.32%; train mAcc: 97.72%
+2021-12-05 10:51:50,353 - main.py[line:123] - INFO: Epoch: 177; eval OA: 91.29%; eval mAcc: 87.65%; train OA: 98.63%; train mAcc: 98.00%
+2021-12-05 10:52:13,165 - main.py[line:123] - INFO: Epoch: 178; eval OA: 91.86%; eval mAcc: 87.47%; train OA: 98.30%; train mAcc: 97.58%
+2021-12-05 10:52:35,992 - main.py[line:123] - INFO: Epoch: 179; eval OA: 92.26%; eval mAcc: 88.57%; train OA: 98.58%; train mAcc: 97.96%
+2021-12-05 10:52:35,997 - main.py[line:128] - INFO: New best model is achieved at epoch 179 with eval OA as 92.26%
+2021-12-05 10:52:58,828 - main.py[line:123] - INFO: Epoch: 180; eval OA: 91.69%; eval mAcc: 87.17%; train OA: 98.38%; train mAcc: 97.76%
+2021-12-05 10:53:21,651 - main.py[line:123] - INFO: Epoch: 181; eval OA: 91.45%; eval mAcc: 87.77%; train OA: 98.45%; train mAcc: 97.81%
+2021-12-05 10:53:44,464 - main.py[line:123] - INFO: Epoch: 182; eval OA: 91.69%; eval mAcc: 87.54%; train OA: 98.27%; train mAcc: 97.69%
+2021-12-05 10:54:07,274 - main.py[line:123] - INFO: Epoch: 183; eval OA: 91.29%; eval mAcc: 87.43%; train OA: 98.50%; train mAcc: 97.93%
+2021-12-05 10:54:30,077 - main.py[line:123] - INFO: Epoch: 184; eval OA: 91.37%; eval mAcc: 87.00%; train OA: 98.49%; train mAcc: 97.86%
+2021-12-05 10:54:52,881 - main.py[line:123] - INFO: Epoch: 185; eval OA: 91.53%; eval mAcc: 87.68%; train OA: 98.37%; train mAcc: 97.65%
+2021-12-05 10:55:15,702 - main.py[line:123] - INFO: Epoch: 186; eval OA: 91.29%; eval mAcc: 88.24%; train OA: 98.49%; train mAcc: 97.77%
+2021-12-05 10:55:38,556 - main.py[line:123] - INFO: Epoch: 187; eval OA: 91.21%; eval mAcc: 87.25%; train OA: 98.31%; train mAcc: 97.64%
+2021-12-05 10:56:01,413 - main.py[line:123] - INFO: Epoch: 188; eval OA: 91.45%; eval mAcc: 87.25%; train OA: 98.39%; train mAcc: 97.76%
+2021-12-05 10:56:24,249 - main.py[line:123] - INFO: Epoch: 189; eval OA: 91.61%; eval mAcc: 87.30%; train OA: 98.30%; train mAcc: 97.62%
+2021-12-05 10:56:47,101 - main.py[line:123] - INFO: Epoch: 190; eval OA: 91.05%; eval mAcc: 87.07%; train OA: 98.39%; train mAcc: 97.83%
+2021-12-05 10:57:09,923 - main.py[line:123] - INFO: Epoch: 191; eval OA: 91.05%; eval mAcc: 87.85%; train OA: 98.52%; train mAcc: 97.80%
+2021-12-05 10:57:32,750 - main.py[line:123] - INFO: Epoch: 192; eval OA: 91.61%; eval mAcc: 87.12%; train OA: 98.62%; train mAcc: 98.09%
+2021-12-05 10:57:55,613 - main.py[line:123] - INFO: Epoch: 193; eval OA: 91.57%; eval mAcc: 87.79%; train OA: 98.59%; train mAcc: 97.99%
+2021-12-05 10:58:18,467 - main.py[line:123] - INFO: Epoch: 194; eval OA: 91.49%; eval mAcc: 87.83%; train OA: 98.45%; train mAcc: 97.68%
+2021-12-05 10:58:41,326 - main.py[line:123] - INFO: Epoch: 195; eval OA: 90.56%; eval mAcc: 86.85%; train OA: 98.44%; train mAcc: 97.75%
+2021-12-05 10:59:04,177 - main.py[line:123] - INFO: Epoch: 196; eval OA: 91.25%; eval mAcc: 87.11%; train OA: 98.53%; train mAcc: 98.01%
+2021-12-05 10:59:27,037 - main.py[line:123] - INFO: Epoch: 197; eval OA: 91.33%; eval mAcc: 87.09%; train OA: 98.59%; train mAcc: 98.01%
+2021-12-05 10:59:49,884 - main.py[line:123] - INFO: Epoch: 198; eval OA: 91.17%; eval mAcc: 87.36%; train OA: 98.49%; train mAcc: 97.74%
+2021-12-05 11:00:12,748 - main.py[line:123] - INFO: Epoch: 199; eval OA: 91.29%; eval mAcc: 86.90%; train OA: 98.52%; train mAcc: 97.80%
+2021-12-05 11:00:35,606 - main.py[line:123] - INFO: Epoch: 200; eval OA: 91.25%; eval mAcc: 87.49%; train OA: 98.24%; train mAcc: 97.39%
+2021-12-05 11:00:58,436 - main.py[line:123] - INFO: Epoch: 201; eval OA: 91.69%; eval mAcc: 87.87%; train OA: 99.02%; train mAcc: 98.58%
+2021-12-05 11:01:21,307 - main.py[line:123] - INFO: Epoch: 202; eval OA: 91.98%; eval mAcc: 87.98%; train OA: 99.15%; train mAcc: 98.85%
+2021-12-05 11:01:44,186 - main.py[line:123] - INFO: Epoch: 203; eval OA: 91.98%; eval mAcc: 88.07%; train OA: 99.10%; train mAcc: 98.78%
+2021-12-05 11:02:07,066 - main.py[line:123] - INFO: Epoch: 204; eval OA: 92.18%; eval mAcc: 88.41%; train OA: 98.97%; train mAcc: 98.54%
+2021-12-05 11:02:29,953 - main.py[line:123] - INFO: Epoch: 205; eval OA: 91.94%; eval mAcc: 87.85%; train OA: 99.07%; train mAcc: 98.73%
+2021-12-05 11:02:52,838 - main.py[line:123] - INFO: Epoch: 206; eval OA: 91.94%; eval mAcc: 87.95%; train OA: 99.15%; train mAcc: 98.87%
+2021-12-05 11:03:15,679 - main.py[line:123] - INFO: Epoch: 207; eval OA: 91.98%; eval mAcc: 88.05%; train OA: 99.29%; train mAcc: 98.98%
+2021-12-05 11:03:38,498 - main.py[line:123] - INFO: Epoch: 208; eval OA: 91.98%; eval mAcc: 88.27%; train OA: 99.20%; train mAcc: 98.87%
+2021-12-05 11:04:01,336 - main.py[line:123] - INFO: Epoch: 209; eval OA: 92.10%; eval mAcc: 87.93%; train OA: 99.15%; train mAcc: 98.79%
+2021-12-05 11:04:24,205 - main.py[line:123] - INFO: Epoch: 210; eval OA: 92.22%; eval mAcc: 88.02%; train OA: 99.13%; train mAcc: 98.81%
+2021-12-05 11:04:47,076 - main.py[line:123] - INFO: Epoch: 211; eval OA: 92.14%; eval mAcc: 88.37%; train OA: 99.17%; train mAcc: 98.84%
+2021-12-05 11:05:09,959 - main.py[line:123] - INFO: Epoch: 212; eval OA: 91.82%; eval mAcc: 87.75%; train OA: 99.18%; train mAcc: 98.83%
+2021-12-05 11:05:32,838 - main.py[line:123] - INFO: Epoch: 213; eval OA: 92.18%; eval mAcc: 88.08%; train OA: 99.31%; train mAcc: 99.07%
+2021-12-05 11:05:55,701 - main.py[line:123] - INFO: Epoch: 214; eval OA: 91.86%; eval mAcc: 87.80%; train OA: 99.25%; train mAcc: 98.93%
+2021-12-05 11:06:18,554 - main.py[line:123] - INFO: Epoch: 215; eval OA: 91.86%; eval mAcc: 87.70%; train OA: 99.20%; train mAcc: 98.96%
+2021-12-05 11:06:41,423 - main.py[line:123] - INFO: Epoch: 216; eval OA: 91.53%; eval mAcc: 87.39%; train OA: 99.15%; train mAcc: 98.84%
+2021-12-05 11:07:04,299 - main.py[line:123] - INFO: Epoch: 217; eval OA: 91.90%; eval mAcc: 87.81%; train OA: 99.23%; train mAcc: 99.01%
+2021-12-05 11:07:27,132 - main.py[line:123] - INFO: Epoch: 218; eval OA: 92.18%; eval mAcc: 88.10%; train OA: 99.26%; train mAcc: 98.91%
+2021-12-05 11:07:49,976 - main.py[line:123] - INFO: Epoch: 219; eval OA: 91.53%; eval mAcc: 87.17%; train OA: 99.28%; train mAcc: 99.02%
+2021-12-05 11:08:12,827 - main.py[line:123] - INFO: Epoch: 220; eval OA: 91.94%; eval mAcc: 87.85%; train OA: 99.15%; train mAcc: 98.82%
+2021-12-05 11:08:35,694 - main.py[line:123] - INFO: Epoch: 221; eval OA: 91.86%; eval mAcc: 87.81%; train OA: 99.36%; train mAcc: 99.18%
+2021-12-05 11:08:58,572 - main.py[line:123] - INFO: Epoch: 222; eval OA: 92.10%; eval mAcc: 87.92%; train OA: 99.21%; train mAcc: 98.96%
+2021-12-05 11:09:21,390 - main.py[line:123] - INFO: Epoch: 223; eval OA: 91.86%; eval mAcc: 87.59%; train OA: 99.16%; train mAcc: 98.77%
+2021-12-05 11:09:44,203 - main.py[line:123] - INFO: Epoch: 224; eval OA: 92.06%; eval mAcc: 87.64%; train OA: 99.22%; train mAcc: 98.93%
+2021-12-05 11:10:07,007 - main.py[line:123] - INFO: Epoch: 225; eval OA: 92.02%; eval mAcc: 87.98%; train OA: 99.08%; train mAcc: 98.76%
+2021-12-05 11:10:29,818 - main.py[line:123] - INFO: Epoch: 226; eval OA: 92.02%; eval mAcc: 87.71%; train OA: 99.26%; train mAcc: 98.96%
+2021-12-05 11:10:52,629 - main.py[line:123] - INFO: Epoch: 227; eval OA: 91.94%; eval mAcc: 87.52%; train OA: 99.16%; train mAcc: 98.91%
+2021-12-05 11:11:15,450 - main.py[line:123] - INFO: Epoch: 228; eval OA: 92.06%; eval mAcc: 88.19%; train OA: 99.22%; train mAcc: 98.92%
+2021-12-05 11:11:38,299 - main.py[line:123] - INFO: Epoch: 229; eval OA: 91.86%; eval mAcc: 87.57%; train OA: 99.13%; train mAcc: 98.78%
+2021-12-05 11:12:01,133 - main.py[line:123] - INFO: Epoch: 230; eval OA: 91.73%; eval mAcc: 87.53%; train OA: 99.32%; train mAcc: 99.05%
+2021-12-05 11:12:23,949 - main.py[line:123] - INFO: Epoch: 231; eval OA: 91.98%; eval mAcc: 88.05%; train OA: 99.24%; train mAcc: 99.00%
+2021-12-05 11:12:46,772 - main.py[line:123] - INFO: Epoch: 232; eval OA: 92.02%; eval mAcc: 88.16%; train OA: 99.21%; train mAcc: 98.90%
+2021-12-05 11:13:09,592 - main.py[line:123] - INFO: Epoch: 233; eval OA: 92.10%; eval mAcc: 88.24%; train OA: 99.37%; train mAcc: 99.08%
+2021-12-05 11:13:32,434 - main.py[line:123] - INFO: Epoch: 234; eval OA: 91.86%; eval mAcc: 87.48%; train OA: 99.25%; train mAcc: 99.06%
+2021-12-05 11:13:55,268 - main.py[line:123] - INFO: Epoch: 235; eval OA: 91.90%; eval mAcc: 87.80%; train OA: 99.28%; train mAcc: 98.97%
+2021-12-05 11:14:18,083 - main.py[line:123] - INFO: Epoch: 236; eval OA: 91.73%; eval mAcc: 87.80%; train OA: 99.16%; train mAcc: 98.81%
+2021-12-05 11:14:40,897 - main.py[line:123] - INFO: Epoch: 237; eval OA: 91.77%; eval mAcc: 87.43%; train OA: 99.30%; train mAcc: 99.03%
+2021-12-05 11:15:03,708 - main.py[line:123] - INFO: Epoch: 238; eval OA: 92.02%; eval mAcc: 88.20%; train OA: 99.36%; train mAcc: 99.19%
+2021-12-05 11:15:26,524 - main.py[line:123] - INFO: Epoch: 239; eval OA: 91.77%; eval mAcc: 87.73%; train OA: 99.26%; train mAcc: 99.04%
+2021-12-05 11:15:49,333 - main.py[line:123] - INFO: Epoch: 240; eval OA: 92.02%; eval mAcc: 87.99%; train OA: 99.24%; train mAcc: 98.92%
+2021-12-05 11:16:12,155 - main.py[line:123] - INFO: Epoch: 241; eval OA: 92.06%; eval mAcc: 87.92%; train OA: 99.14%; train mAcc: 98.91%
+2021-12-05 11:16:34,962 - main.py[line:123] - INFO: Epoch: 242; eval OA: 91.82%; eval mAcc: 87.44%; train OA: 99.20%; train mAcc: 98.94%
+2021-12-05 11:16:57,778 - main.py[line:123] - INFO: Epoch: 243; eval OA: 92.02%; eval mAcc: 87.88%; train OA: 99.26%; train mAcc: 98.94%
+2021-12-05 11:17:20,580 - main.py[line:123] - INFO: Epoch: 244; eval OA: 92.02%; eval mAcc: 88.00%; train OA: 99.36%; train mAcc: 99.17%
+2021-12-05 11:17:43,381 - main.py[line:123] - INFO: Epoch: 245; eval OA: 91.90%; eval mAcc: 87.70%; train OA: 99.18%; train mAcc: 98.83%
+2021-12-05 11:18:06,189 - main.py[line:123] - INFO: Epoch: 246; eval OA: 91.77%; eval mAcc: 87.82%; train OA: 99.22%; train mAcc: 98.88%
+2021-12-05 11:18:28,997 - main.py[line:123] - INFO: Epoch: 247; eval OA: 91.90%; eval mAcc: 87.52%; train OA: 99.21%; train mAcc: 98.80%
+2021-12-05 11:18:51,798 - main.py[line:123] - INFO: Epoch: 248; eval OA: 91.86%; eval mAcc: 87.67%; train OA: 99.21%; train mAcc: 98.91%
+2021-12-05 11:19:14,608 - main.py[line:123] - INFO: Epoch: 249; eval OA: 91.69%; eval mAcc: 87.57%; train OA: 99.24%; train mAcc: 99.06%
+2021-12-05 11:19:37,412 - main.py[line:123] - INFO: Epoch: 250; eval OA: 91.77%; eval mAcc: 87.32%; train OA: 99.28%; train mAcc: 98.95%
+2021-12-05 11:19:37,418 - main.py[line:131] - INFO: Best model is achieved at epoch 179 with eval OA as 92.26%

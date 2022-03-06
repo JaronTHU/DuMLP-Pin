@@ -1,0 +1,551 @@
+2021-12-05 09:47:24,502 - main.py[line:181] - INFO: Epoch: 1  ; eval pIoU: 71.71%; eval cIoU: 58.82%; train pIoU: 65.22%; train cIoU: 49.82%
+2021-12-05 09:47:24,507 - main.py[line:186] - INFO: New best model is achieved at epoch 1 with eval pIoU as 71.71%
+2021-12-05 09:48:59,871 - main.py[line:181] - INFO: Epoch: 2  ; eval pIoU: 70.72%; eval cIoU: 57.44%; train pIoU: 71.37%; train cIoU: 60.43%
+2021-12-05 09:50:35,107 - main.py[line:181] - INFO: Epoch: 3  ; eval pIoU: 73.39%; eval cIoU: 63.44%; train pIoU: 72.95%; train cIoU: 63.55%
+2021-12-05 09:50:35,112 - main.py[line:186] - INFO: New best model is achieved at epoch 3 with eval pIoU as 73.39%
+2021-12-05 09:52:10,383 - main.py[line:181] - INFO: Epoch: 4  ; eval pIoU: 73.07%; eval cIoU: 64.38%; train pIoU: 74.41%; train cIoU: 65.11%
+2021-12-05 09:53:45,610 - main.py[line:181] - INFO: Epoch: 5  ; eval pIoU: 75.25%; eval cIoU: 66.65%; train pIoU: 75.33%; train cIoU: 65.92%
+2021-12-05 09:53:45,615 - main.py[line:186] - INFO: New best model is achieved at epoch 5 with eval pIoU as 75.25%
+2021-12-05 09:55:20,868 - main.py[line:181] - INFO: Epoch: 6  ; eval pIoU: 74.78%; eval cIoU: 64.61%; train pIoU: 75.90%; train cIoU: 66.72%
+2021-12-05 09:56:56,177 - main.py[line:181] - INFO: Epoch: 7  ; eval pIoU: 75.51%; eval cIoU: 68.98%; train pIoU: 76.68%; train cIoU: 68.01%
+2021-12-05 09:56:56,182 - main.py[line:186] - INFO: New best model is achieved at epoch 7 with eval pIoU as 75.51%
+2021-12-05 09:58:31,441 - main.py[line:181] - INFO: Epoch: 8  ; eval pIoU: 75.91%; eval cIoU: 69.42%; train pIoU: 76.89%; train cIoU: 68.51%
+2021-12-05 09:58:31,446 - main.py[line:186] - INFO: New best model is achieved at epoch 8 with eval pIoU as 75.91%
+2021-12-05 10:00:06,702 - main.py[line:181] - INFO: Epoch: 9  ; eval pIoU: 76.38%; eval cIoU: 68.71%; train pIoU: 77.41%; train cIoU: 69.21%
+2021-12-05 10:00:06,707 - main.py[line:186] - INFO: New best model is achieved at epoch 9 with eval pIoU as 76.38%
+2021-12-05 10:01:41,921 - main.py[line:181] - INFO: Epoch: 10 ; eval pIoU: 77.31%; eval cIoU: 69.95%; train pIoU: 77.66%; train cIoU: 69.19%
+2021-12-05 10:01:41,926 - main.py[line:186] - INFO: New best model is achieved at epoch 10 with eval pIoU as 77.31%
+2021-12-05 10:03:17,164 - main.py[line:181] - INFO: Epoch: 11 ; eval pIoU: 76.83%; eval cIoU: 69.66%; train pIoU: 78.04%; train cIoU: 69.73%
+2021-12-05 10:04:52,377 - main.py[line:181] - INFO: Epoch: 12 ; eval pIoU: 76.13%; eval cIoU: 66.72%; train pIoU: 78.25%; train cIoU: 69.85%
+2021-12-05 10:06:27,548 - main.py[line:181] - INFO: Epoch: 13 ; eval pIoU: 77.82%; eval cIoU: 69.79%; train pIoU: 78.48%; train cIoU: 70.33%
+2021-12-05 10:06:27,553 - main.py[line:186] - INFO: New best model is achieved at epoch 13 with eval pIoU as 77.82%
+2021-12-05 10:08:02,795 - main.py[line:181] - INFO: Epoch: 14 ; eval pIoU: 77.75%; eval cIoU: 70.36%; train pIoU: 78.48%; train cIoU: 69.97%
+2021-12-05 10:09:37,987 - main.py[line:181] - INFO: Epoch: 15 ; eval pIoU: 77.90%; eval cIoU: 70.08%; train pIoU: 78.86%; train cIoU: 70.95%
+2021-12-05 10:09:37,992 - main.py[line:186] - INFO: New best model is achieved at epoch 15 with eval pIoU as 77.90%
+2021-12-05 10:11:13,287 - main.py[line:181] - INFO: Epoch: 16 ; eval pIoU: 77.86%; eval cIoU: 70.95%; train pIoU: 78.86%; train cIoU: 70.68%
+2021-12-05 10:12:48,541 - main.py[line:181] - INFO: Epoch: 17 ; eval pIoU: 77.42%; eval cIoU: 69.83%; train pIoU: 79.09%; train cIoU: 71.21%
+2021-12-05 10:14:23,774 - main.py[line:181] - INFO: Epoch: 18 ; eval pIoU: 77.55%; eval cIoU: 68.75%; train pIoU: 79.12%; train cIoU: 71.56%
+2021-12-05 10:15:58,990 - main.py[line:181] - INFO: Epoch: 19 ; eval pIoU: 78.18%; eval cIoU: 70.43%; train pIoU: 79.38%; train cIoU: 71.74%
+2021-12-05 10:15:58,995 - main.py[line:186] - INFO: New best model is achieved at epoch 19 with eval pIoU as 78.18%
+2021-12-05 10:17:34,198 - main.py[line:181] - INFO: Epoch: 20 ; eval pIoU: 78.37%; eval cIoU: 70.01%; train pIoU: 79.55%; train cIoU: 71.73%
+2021-12-05 10:17:34,202 - main.py[line:186] - INFO: New best model is achieved at epoch 20 with eval pIoU as 78.37%
+2021-12-05 10:19:09,412 - main.py[line:181] - INFO: Epoch: 21 ; eval pIoU: 78.68%; eval cIoU: 72.03%; train pIoU: 79.57%; train cIoU: 71.96%
+2021-12-05 10:19:09,416 - main.py[line:186] - INFO: New best model is achieved at epoch 21 with eval pIoU as 78.68%
+2021-12-05 10:20:44,626 - main.py[line:181] - INFO: Epoch: 22 ; eval pIoU: 78.52%; eval cIoU: 71.07%; train pIoU: 79.76%; train cIoU: 72.22%
+2021-12-05 10:22:19,853 - main.py[line:181] - INFO: Epoch: 23 ; eval pIoU: 79.02%; eval cIoU: 72.66%; train pIoU: 79.90%; train cIoU: 72.42%
+2021-12-05 10:22:19,857 - main.py[line:186] - INFO: New best model is achieved at epoch 23 with eval pIoU as 79.02%
+2021-12-05 10:23:55,045 - main.py[line:181] - INFO: Epoch: 24 ; eval pIoU: 79.04%; eval cIoU: 72.28%; train pIoU: 79.91%; train cIoU: 72.49%
+2021-12-05 10:23:55,050 - main.py[line:186] - INFO: New best model is achieved at epoch 24 with eval pIoU as 79.04%
+2021-12-05 10:25:30,268 - main.py[line:181] - INFO: Epoch: 25 ; eval pIoU: 78.75%; eval cIoU: 71.68%; train pIoU: 79.98%; train cIoU: 72.84%
+2021-12-05 10:27:05,472 - main.py[line:181] - INFO: Epoch: 26 ; eval pIoU: 79.28%; eval cIoU: 71.09%; train pIoU: 80.15%; train cIoU: 72.84%
+2021-12-05 10:27:05,476 - main.py[line:186] - INFO: New best model is achieved at epoch 26 with eval pIoU as 79.28%
+2021-12-05 10:28:40,757 - main.py[line:181] - INFO: Epoch: 27 ; eval pIoU: 79.09%; eval cIoU: 71.72%; train pIoU: 80.14%; train cIoU: 73.03%
+2021-12-05 10:30:15,952 - main.py[line:181] - INFO: Epoch: 28 ; eval pIoU: 79.18%; eval cIoU: 72.30%; train pIoU: 80.26%; train cIoU: 72.86%
+2021-12-05 10:31:51,168 - main.py[line:181] - INFO: Epoch: 29 ; eval pIoU: 79.64%; eval cIoU: 73.24%; train pIoU: 80.41%; train cIoU: 73.48%
+2021-12-05 10:31:51,171 - main.py[line:186] - INFO: New best model is achieved at epoch 29 with eval pIoU as 79.64%
+2021-12-05 10:33:26,407 - main.py[line:181] - INFO: Epoch: 30 ; eval pIoU: 79.66%; eval cIoU: 72.80%; train pIoU: 80.42%; train cIoU: 73.04%
+2021-12-05 10:33:26,411 - main.py[line:186] - INFO: New best model is achieved at epoch 30 with eval pIoU as 79.66%
+2021-12-05 10:35:01,667 - main.py[line:181] - INFO: Epoch: 31 ; eval pIoU: 79.38%; eval cIoU: 72.19%; train pIoU: 80.57%; train cIoU: 73.25%
+2021-12-05 10:36:36,913 - main.py[line:181] - INFO: Epoch: 32 ; eval pIoU: 79.41%; eval cIoU: 72.74%; train pIoU: 80.57%; train cIoU: 73.90%
+2021-12-05 10:38:12,101 - main.py[line:181] - INFO: Epoch: 33 ; eval pIoU: 79.26%; eval cIoU: 71.16%; train pIoU: 80.61%; train cIoU: 73.78%
+2021-12-05 10:39:47,319 - main.py[line:181] - INFO: Epoch: 34 ; eval pIoU: 79.36%; eval cIoU: 72.30%; train pIoU: 80.74%; train cIoU: 73.57%
+2021-12-05 10:41:22,484 - main.py[line:181] - INFO: Epoch: 35 ; eval pIoU: 78.81%; eval cIoU: 71.55%; train pIoU: 80.76%; train cIoU: 73.51%
+2021-12-05 10:42:57,701 - main.py[line:181] - INFO: Epoch: 36 ; eval pIoU: 79.98%; eval cIoU: 73.60%; train pIoU: 80.77%; train cIoU: 74.06%
+2021-12-05 10:42:57,705 - main.py[line:186] - INFO: New best model is achieved at epoch 36 with eval pIoU as 79.98%
+2021-12-05 10:44:32,957 - main.py[line:181] - INFO: Epoch: 37 ; eval pIoU: 79.91%; eval cIoU: 72.98%; train pIoU: 80.82%; train cIoU: 73.95%
+2021-12-05 10:46:08,157 - main.py[line:181] - INFO: Epoch: 38 ; eval pIoU: 79.93%; eval cIoU: 72.85%; train pIoU: 80.97%; train cIoU: 74.25%
+2021-12-05 10:47:43,400 - main.py[line:181] - INFO: Epoch: 39 ; eval pIoU: 80.53%; eval cIoU: 74.17%; train pIoU: 80.98%; train cIoU: 74.47%
+2021-12-05 10:47:43,404 - main.py[line:186] - INFO: New best model is achieved at epoch 39 with eval pIoU as 80.53%
+2021-12-05 10:49:18,597 - main.py[line:181] - INFO: Epoch: 40 ; eval pIoU: 80.36%; eval cIoU: 74.79%; train pIoU: 81.06%; train cIoU: 74.25%
+2021-12-05 10:50:53,804 - main.py[line:181] - INFO: Epoch: 41 ; eval pIoU: 80.31%; eval cIoU: 74.27%; train pIoU: 81.06%; train cIoU: 74.83%
+2021-12-05 10:52:29,015 - main.py[line:181] - INFO: Epoch: 42 ; eval pIoU: 80.44%; eval cIoU: 73.97%; train pIoU: 81.04%; train cIoU: 74.71%
+2021-12-05 10:54:04,219 - main.py[line:181] - INFO: Epoch: 43 ; eval pIoU: 80.64%; eval cIoU: 75.06%; train pIoU: 81.13%; train cIoU: 74.75%
+2021-12-05 10:54:04,224 - main.py[line:186] - INFO: New best model is achieved at epoch 43 with eval pIoU as 80.64%
+2021-12-05 10:55:39,443 - main.py[line:181] - INFO: Epoch: 44 ; eval pIoU: 80.39%; eval cIoU: 73.67%; train pIoU: 81.24%; train cIoU: 74.87%
+2021-12-05 10:57:14,680 - main.py[line:181] - INFO: Epoch: 45 ; eval pIoU: 80.21%; eval cIoU: 73.76%; train pIoU: 81.36%; train cIoU: 75.11%
+2021-12-05 10:58:49,869 - main.py[line:181] - INFO: Epoch: 46 ; eval pIoU: 80.00%; eval cIoU: 74.05%; train pIoU: 81.25%; train cIoU: 74.67%
+2021-12-05 11:00:25,074 - main.py[line:181] - INFO: Epoch: 47 ; eval pIoU: 80.56%; eval cIoU: 75.32%; train pIoU: 81.27%; train cIoU: 74.91%
+2021-12-05 11:02:00,267 - main.py[line:181] - INFO: Epoch: 48 ; eval pIoU: 80.61%; eval cIoU: 74.42%; train pIoU: 81.40%; train cIoU: 75.10%
+2021-12-05 11:03:35,481 - main.py[line:181] - INFO: Epoch: 49 ; eval pIoU: 81.04%; eval cIoU: 75.37%; train pIoU: 81.32%; train cIoU: 74.77%
+2021-12-05 11:03:35,485 - main.py[line:186] - INFO: New best model is achieved at epoch 49 with eval pIoU as 81.04%
+2021-12-05 11:05:10,723 - main.py[line:181] - INFO: Epoch: 50 ; eval pIoU: 80.49%; eval cIoU: 73.74%; train pIoU: 81.40%; train cIoU: 74.87%
+2021-12-05 11:06:45,905 - main.py[line:181] - INFO: Epoch: 51 ; eval pIoU: 80.27%; eval cIoU: 74.21%; train pIoU: 81.43%; train cIoU: 74.79%
+2021-12-05 11:08:21,131 - main.py[line:181] - INFO: Epoch: 52 ; eval pIoU: 80.77%; eval cIoU: 75.19%; train pIoU: 81.43%; train cIoU: 75.25%
+2021-12-05 11:09:56,336 - main.py[line:181] - INFO: Epoch: 53 ; eval pIoU: 80.72%; eval cIoU: 75.04%; train pIoU: 81.55%; train cIoU: 75.50%
+2021-12-05 11:11:31,532 - main.py[line:181] - INFO: Epoch: 54 ; eval pIoU: 80.60%; eval cIoU: 74.93%; train pIoU: 81.57%; train cIoU: 75.48%
+2021-12-05 11:13:06,726 - main.py[line:181] - INFO: Epoch: 55 ; eval pIoU: 80.87%; eval cIoU: 73.43%; train pIoU: 81.61%; train cIoU: 75.68%
+2021-12-05 11:14:41,922 - main.py[line:181] - INFO: Epoch: 56 ; eval pIoU: 80.67%; eval cIoU: 75.77%; train pIoU: 81.66%; train cIoU: 75.45%
+2021-12-05 11:16:17,130 - main.py[line:181] - INFO: Epoch: 57 ; eval pIoU: 80.35%; eval cIoU: 75.24%; train pIoU: 81.62%; train cIoU: 75.16%
+2021-12-05 11:17:52,304 - main.py[line:181] - INFO: Epoch: 58 ; eval pIoU: 80.81%; eval cIoU: 75.28%; train pIoU: 81.64%; train cIoU: 75.60%
+2021-12-05 11:19:27,510 - main.py[line:181] - INFO: Epoch: 59 ; eval pIoU: 80.63%; eval cIoU: 74.02%; train pIoU: 81.73%; train cIoU: 75.56%
+2021-12-05 11:21:02,707 - main.py[line:181] - INFO: Epoch: 60 ; eval pIoU: 80.97%; eval cIoU: 75.03%; train pIoU: 81.77%; train cIoU: 75.68%
+2021-12-05 11:22:37,890 - main.py[line:181] - INFO: Epoch: 61 ; eval pIoU: 80.59%; eval cIoU: 74.45%; train pIoU: 81.77%; train cIoU: 75.69%
+2021-12-05 11:24:13,035 - main.py[line:181] - INFO: Epoch: 62 ; eval pIoU: 80.77%; eval cIoU: 75.07%; train pIoU: 81.68%; train cIoU: 75.82%
+2021-12-05 11:25:48,363 - main.py[line:181] - INFO: Epoch: 63 ; eval pIoU: 80.78%; eval cIoU: 75.35%; train pIoU: 81.83%; train cIoU: 75.77%
+2021-12-05 11:27:23,404 - main.py[line:181] - INFO: Epoch: 64 ; eval pIoU: 81.02%; eval cIoU: 74.60%; train pIoU: 81.89%; train cIoU: 75.91%
+2021-12-05 11:28:58,472 - main.py[line:181] - INFO: Epoch: 65 ; eval pIoU: 80.85%; eval cIoU: 75.38%; train pIoU: 81.82%; train cIoU: 75.62%
+2021-12-05 11:30:33,534 - main.py[line:181] - INFO: Epoch: 66 ; eval pIoU: 80.95%; eval cIoU: 74.83%; train pIoU: 81.94%; train cIoU: 76.10%
+2021-12-05 11:32:08,610 - main.py[line:181] - INFO: Epoch: 67 ; eval pIoU: 81.06%; eval cIoU: 75.07%; train pIoU: 81.91%; train cIoU: 75.85%
+2021-12-05 11:32:08,614 - main.py[line:186] - INFO: New best model is achieved at epoch 67 with eval pIoU as 81.06%
+2021-12-05 11:33:43,680 - main.py[line:181] - INFO: Epoch: 68 ; eval pIoU: 81.23%; eval cIoU: 75.51%; train pIoU: 81.92%; train cIoU: 76.20%
+2021-12-05 11:33:43,684 - main.py[line:186] - INFO: New best model is achieved at epoch 68 with eval pIoU as 81.23%
+2021-12-05 11:35:18,750 - main.py[line:181] - INFO: Epoch: 69 ; eval pIoU: 80.07%; eval cIoU: 74.98%; train pIoU: 81.99%; train cIoU: 76.26%
+2021-12-05 11:36:53,826 - main.py[line:181] - INFO: Epoch: 70 ; eval pIoU: 81.39%; eval cIoU: 75.73%; train pIoU: 82.05%; train cIoU: 75.99%
+2021-12-05 11:36:53,830 - main.py[line:186] - INFO: New best model is achieved at epoch 70 with eval pIoU as 81.39%
+2021-12-05 11:38:28,903 - main.py[line:181] - INFO: Epoch: 71 ; eval pIoU: 80.70%; eval cIoU: 75.10%; train pIoU: 81.94%; train cIoU: 76.18%
+2021-12-05 11:40:03,996 - main.py[line:181] - INFO: Epoch: 72 ; eval pIoU: 80.93%; eval cIoU: 74.48%; train pIoU: 81.99%; train cIoU: 76.00%
+2021-12-05 11:41:39,082 - main.py[line:181] - INFO: Epoch: 73 ; eval pIoU: 81.13%; eval cIoU: 75.57%; train pIoU: 82.02%; train cIoU: 76.04%
+2021-12-05 11:43:14,183 - main.py[line:181] - INFO: Epoch: 74 ; eval pIoU: 81.18%; eval cIoU: 74.70%; train pIoU: 82.10%; train cIoU: 76.04%
+2021-12-05 11:44:49,331 - main.py[line:181] - INFO: Epoch: 75 ; eval pIoU: 81.04%; eval cIoU: 75.14%; train pIoU: 82.09%; train cIoU: 76.09%
+2021-12-05 11:46:24,456 - main.py[line:181] - INFO: Epoch: 76 ; eval pIoU: 80.49%; eval cIoU: 74.72%; train pIoU: 82.09%; train cIoU: 76.29%
+2021-12-05 11:47:59,547 - main.py[line:181] - INFO: Epoch: 77 ; eval pIoU: 81.08%; eval cIoU: 75.71%; train pIoU: 82.17%; train cIoU: 76.51%
+2021-12-05 11:49:34,649 - main.py[line:181] - INFO: Epoch: 78 ; eval pIoU: 81.17%; eval cIoU: 75.21%; train pIoU: 82.14%; train cIoU: 76.40%
+2021-12-05 11:51:09,730 - main.py[line:181] - INFO: Epoch: 79 ; eval pIoU: 81.02%; eval cIoU: 74.41%; train pIoU: 82.15%; train cIoU: 76.31%
+2021-12-05 11:52:44,845 - main.py[line:181] - INFO: Epoch: 80 ; eval pIoU: 80.86%; eval cIoU: 74.35%; train pIoU: 82.17%; train cIoU: 76.28%
+2021-12-05 11:54:19,946 - main.py[line:181] - INFO: Epoch: 81 ; eval pIoU: 81.30%; eval cIoU: 74.93%; train pIoU: 82.17%; train cIoU: 76.50%
+2021-12-05 11:55:55,032 - main.py[line:181] - INFO: Epoch: 82 ; eval pIoU: 80.95%; eval cIoU: 75.19%; train pIoU: 82.24%; train cIoU: 76.59%
+2021-12-05 11:57:30,112 - main.py[line:181] - INFO: Epoch: 83 ; eval pIoU: 81.19%; eval cIoU: 74.31%; train pIoU: 82.21%; train cIoU: 76.63%
+2021-12-05 11:59:05,210 - main.py[line:181] - INFO: Epoch: 84 ; eval pIoU: 81.10%; eval cIoU: 75.21%; train pIoU: 82.18%; train cIoU: 76.60%
+2021-12-05 12:00:40,322 - main.py[line:181] - INFO: Epoch: 85 ; eval pIoU: 80.94%; eval cIoU: 75.00%; train pIoU: 82.31%; train cIoU: 76.44%
+2021-12-05 12:02:15,444 - main.py[line:181] - INFO: Epoch: 86 ; eval pIoU: 81.65%; eval cIoU: 76.50%; train pIoU: 82.22%; train cIoU: 76.70%
+2021-12-05 12:02:15,448 - main.py[line:186] - INFO: New best model is achieved at epoch 86 with eval pIoU as 81.65%
+2021-12-05 12:03:50,575 - main.py[line:181] - INFO: Epoch: 87 ; eval pIoU: 81.30%; eval cIoU: 76.64%; train pIoU: 82.28%; train cIoU: 76.76%
+2021-12-05 12:05:25,675 - main.py[line:181] - INFO: Epoch: 88 ; eval pIoU: 81.35%; eval cIoU: 75.37%; train pIoU: 82.41%; train cIoU: 76.94%
+2021-12-05 12:07:00,811 - main.py[line:181] - INFO: Epoch: 89 ; eval pIoU: 81.48%; eval cIoU: 75.95%; train pIoU: 82.36%; train cIoU: 76.67%
+2021-12-05 12:08:35,960 - main.py[line:181] - INFO: Epoch: 90 ; eval pIoU: 80.93%; eval cIoU: 75.03%; train pIoU: 82.34%; train cIoU: 76.59%
+2021-12-05 12:10:11,106 - main.py[line:181] - INFO: Epoch: 91 ; eval pIoU: 81.40%; eval cIoU: 76.23%; train pIoU: 82.33%; train cIoU: 76.85%
+2021-12-05 12:11:46,221 - main.py[line:181] - INFO: Epoch: 92 ; eval pIoU: 81.43%; eval cIoU: 75.89%; train pIoU: 82.41%; train cIoU: 76.92%
+2021-12-05 12:13:21,323 - main.py[line:181] - INFO: Epoch: 93 ; eval pIoU: 81.48%; eval cIoU: 75.39%; train pIoU: 82.44%; train cIoU: 76.80%
+2021-12-05 12:14:56,445 - main.py[line:181] - INFO: Epoch: 94 ; eval pIoU: 81.44%; eval cIoU: 75.53%; train pIoU: 82.43%; train cIoU: 76.97%
+2021-12-05 12:16:31,571 - main.py[line:181] - INFO: Epoch: 95 ; eval pIoU: 81.24%; eval cIoU: 75.33%; train pIoU: 82.41%; train cIoU: 76.71%
+2021-12-05 12:18:06,708 - main.py[line:181] - INFO: Epoch: 96 ; eval pIoU: 81.63%; eval cIoU: 76.29%; train pIoU: 82.46%; train cIoU: 77.15%
+2021-12-05 12:19:41,823 - main.py[line:181] - INFO: Epoch: 97 ; eval pIoU: 81.51%; eval cIoU: 75.81%; train pIoU: 82.46%; train cIoU: 77.08%
+2021-12-05 12:21:16,938 - main.py[line:181] - INFO: Epoch: 98 ; eval pIoU: 81.37%; eval cIoU: 75.25%; train pIoU: 82.56%; train cIoU: 76.87%
+2021-12-05 12:22:52,042 - main.py[line:181] - INFO: Epoch: 99 ; eval pIoU: 80.98%; eval cIoU: 75.95%; train pIoU: 82.61%; train cIoU: 77.09%
+2021-12-05 12:24:27,162 - main.py[line:181] - INFO: Epoch: 100; eval pIoU: 81.56%; eval cIoU: 75.38%; train pIoU: 82.46%; train cIoU: 76.77%
+2021-12-05 12:26:02,294 - main.py[line:181] - INFO: Epoch: 101; eval pIoU: 81.25%; eval cIoU: 75.23%; train pIoU: 82.52%; train cIoU: 76.86%
+2021-12-05 12:27:37,402 - main.py[line:181] - INFO: Epoch: 102; eval pIoU: 81.48%; eval cIoU: 75.28%; train pIoU: 82.50%; train cIoU: 76.88%
+2021-12-05 12:29:12,507 - main.py[line:181] - INFO: Epoch: 103; eval pIoU: 81.24%; eval cIoU: 75.22%; train pIoU: 82.64%; train cIoU: 77.12%
+2021-12-05 12:30:47,609 - main.py[line:181] - INFO: Epoch: 104; eval pIoU: 81.49%; eval cIoU: 74.86%; train pIoU: 82.60%; train cIoU: 77.14%
+2021-12-05 12:32:22,711 - main.py[line:181] - INFO: Epoch: 105; eval pIoU: 81.30%; eval cIoU: 75.29%; train pIoU: 82.65%; train cIoU: 77.18%
+2021-12-05 12:33:57,838 - main.py[line:181] - INFO: Epoch: 106; eval pIoU: 81.74%; eval cIoU: 76.26%; train pIoU: 82.51%; train cIoU: 76.83%
+2021-12-05 12:33:57,842 - main.py[line:186] - INFO: New best model is achieved at epoch 106 with eval pIoU as 81.74%
+2021-12-05 12:35:32,962 - main.py[line:181] - INFO: Epoch: 107; eval pIoU: 81.44%; eval cIoU: 75.92%; train pIoU: 82.63%; train cIoU: 77.22%
+2021-12-05 12:37:08,041 - main.py[line:181] - INFO: Epoch: 108; eval pIoU: 81.79%; eval cIoU: 76.21%; train pIoU: 82.70%; train cIoU: 77.51%
+2021-12-05 12:37:08,045 - main.py[line:186] - INFO: New best model is achieved at epoch 108 with eval pIoU as 81.79%
+2021-12-05 12:38:43,148 - main.py[line:181] - INFO: Epoch: 109; eval pIoU: 81.50%; eval cIoU: 75.64%; train pIoU: 82.61%; train cIoU: 77.22%
+2021-12-05 12:40:18,238 - main.py[line:181] - INFO: Epoch: 110; eval pIoU: 81.47%; eval cIoU: 75.48%; train pIoU: 82.58%; train cIoU: 77.46%
+2021-12-05 12:41:53,329 - main.py[line:181] - INFO: Epoch: 111; eval pIoU: 81.49%; eval cIoU: 75.52%; train pIoU: 82.66%; train cIoU: 77.21%
+2021-12-05 12:43:28,438 - main.py[line:181] - INFO: Epoch: 112; eval pIoU: 81.72%; eval cIoU: 76.39%; train pIoU: 82.68%; train cIoU: 77.22%
+2021-12-05 12:45:03,526 - main.py[line:181] - INFO: Epoch: 113; eval pIoU: 81.47%; eval cIoU: 77.14%; train pIoU: 82.74%; train cIoU: 77.60%
+2021-12-05 12:46:38,629 - main.py[line:181] - INFO: Epoch: 114; eval pIoU: 81.81%; eval cIoU: 76.35%; train pIoU: 82.63%; train cIoU: 77.69%
+2021-12-05 12:46:38,633 - main.py[line:186] - INFO: New best model is achieved at epoch 114 with eval pIoU as 81.81%
+2021-12-05 12:48:13,756 - main.py[line:181] - INFO: Epoch: 115; eval pIoU: 81.19%; eval cIoU: 73.86%; train pIoU: 82.77%; train cIoU: 77.24%
+2021-12-05 12:49:48,884 - main.py[line:181] - INFO: Epoch: 116; eval pIoU: 81.40%; eval cIoU: 75.36%; train pIoU: 82.66%; train cIoU: 77.39%
+2021-12-05 12:51:23,969 - main.py[line:181] - INFO: Epoch: 117; eval pIoU: 81.60%; eval cIoU: 75.91%; train pIoU: 82.69%; train cIoU: 77.35%
+2021-12-05 12:52:59,099 - main.py[line:181] - INFO: Epoch: 118; eval pIoU: 81.79%; eval cIoU: 75.54%; train pIoU: 82.68%; train cIoU: 77.44%
+2021-12-05 12:54:34,249 - main.py[line:181] - INFO: Epoch: 119; eval pIoU: 81.85%; eval cIoU: 76.09%; train pIoU: 82.80%; train cIoU: 77.52%
+2021-12-05 12:54:34,253 - main.py[line:186] - INFO: New best model is achieved at epoch 119 with eval pIoU as 81.85%
+2021-12-05 12:56:09,408 - main.py[line:181] - INFO: Epoch: 120; eval pIoU: 81.52%; eval cIoU: 75.87%; train pIoU: 82.77%; train cIoU: 77.31%
+2021-12-05 12:57:44,523 - main.py[line:181] - INFO: Epoch: 121; eval pIoU: 81.67%; eval cIoU: 76.14%; train pIoU: 82.88%; train cIoU: 77.79%
+2021-12-05 12:59:19,621 - main.py[line:181] - INFO: Epoch: 122; eval pIoU: 81.57%; eval cIoU: 75.81%; train pIoU: 82.74%; train cIoU: 77.57%
+2021-12-05 13:00:54,764 - main.py[line:181] - INFO: Epoch: 123; eval pIoU: 81.83%; eval cIoU: 77.18%; train pIoU: 82.93%; train cIoU: 77.95%
+2021-12-05 13:02:29,931 - main.py[line:181] - INFO: Epoch: 124; eval pIoU: 81.51%; eval cIoU: 76.03%; train pIoU: 82.80%; train cIoU: 77.56%
+2021-12-05 13:04:05,061 - main.py[line:181] - INFO: Epoch: 125; eval pIoU: 81.69%; eval cIoU: 75.95%; train pIoU: 82.82%; train cIoU: 77.59%
+2021-12-05 13:05:40,181 - main.py[line:181] - INFO: Epoch: 126; eval pIoU: 81.93%; eval cIoU: 76.27%; train pIoU: 82.84%; train cIoU: 77.39%
+2021-12-05 13:05:40,186 - main.py[line:186] - INFO: New best model is achieved at epoch 126 with eval pIoU as 81.93%
+2021-12-05 13:07:15,338 - main.py[line:181] - INFO: Epoch: 127; eval pIoU: 81.81%; eval cIoU: 75.76%; train pIoU: 82.79%; train cIoU: 77.48%
+2021-12-05 13:08:50,482 - main.py[line:181] - INFO: Epoch: 128; eval pIoU: 81.49%; eval cIoU: 76.87%; train pIoU: 82.89%; train cIoU: 77.84%
+2021-12-05 13:10:25,638 - main.py[line:181] - INFO: Epoch: 129; eval pIoU: 81.81%; eval cIoU: 76.15%; train pIoU: 82.87%; train cIoU: 77.63%
+2021-12-05 13:12:00,803 - main.py[line:181] - INFO: Epoch: 130; eval pIoU: 81.85%; eval cIoU: 76.68%; train pIoU: 82.90%; train cIoU: 77.92%
+2021-12-05 13:13:35,938 - main.py[line:181] - INFO: Epoch: 131; eval pIoU: 81.52%; eval cIoU: 75.25%; train pIoU: 82.91%; train cIoU: 77.65%
+2021-12-05 13:15:11,107 - main.py[line:181] - INFO: Epoch: 132; eval pIoU: 81.77%; eval cIoU: 75.81%; train pIoU: 82.89%; train cIoU: 77.83%
+2021-12-05 13:16:46,232 - main.py[line:181] - INFO: Epoch: 133; eval pIoU: 81.99%; eval cIoU: 75.95%; train pIoU: 82.95%; train cIoU: 77.98%
+2021-12-05 13:16:46,236 - main.py[line:186] - INFO: New best model is achieved at epoch 133 with eval pIoU as 81.99%
+2021-12-05 13:18:21,365 - main.py[line:181] - INFO: Epoch: 134; eval pIoU: 81.83%; eval cIoU: 76.27%; train pIoU: 82.97%; train cIoU: 77.68%
+2021-12-05 13:19:56,485 - main.py[line:181] - INFO: Epoch: 135; eval pIoU: 81.71%; eval cIoU: 76.57%; train pIoU: 83.00%; train cIoU: 77.85%
+2021-12-05 13:21:31,607 - main.py[line:181] - INFO: Epoch: 136; eval pIoU: 81.81%; eval cIoU: 76.09%; train pIoU: 82.93%; train cIoU: 77.84%
+2021-12-05 13:23:06,743 - main.py[line:181] - INFO: Epoch: 137; eval pIoU: 81.60%; eval cIoU: 74.90%; train pIoU: 82.99%; train cIoU: 77.86%
+2021-12-05 13:24:41,868 - main.py[line:181] - INFO: Epoch: 138; eval pIoU: 81.86%; eval cIoU: 76.67%; train pIoU: 83.06%; train cIoU: 77.84%
+2021-12-05 13:26:17,002 - main.py[line:181] - INFO: Epoch: 139; eval pIoU: 82.05%; eval cIoU: 76.79%; train pIoU: 83.10%; train cIoU: 78.37%
+2021-12-05 13:26:17,006 - main.py[line:186] - INFO: New best model is achieved at epoch 139 with eval pIoU as 82.05%
+2021-12-05 13:27:52,169 - main.py[line:181] - INFO: Epoch: 140; eval pIoU: 81.95%; eval cIoU: 76.62%; train pIoU: 83.02%; train cIoU: 77.96%
+2021-12-05 13:29:27,334 - main.py[line:181] - INFO: Epoch: 141; eval pIoU: 81.73%; eval cIoU: 75.92%; train pIoU: 83.09%; train cIoU: 77.73%
+2021-12-05 13:31:02,473 - main.py[line:181] - INFO: Epoch: 142; eval pIoU: 81.90%; eval cIoU: 76.55%; train pIoU: 82.95%; train cIoU: 77.80%
+2021-12-05 13:32:37,624 - main.py[line:181] - INFO: Epoch: 143; eval pIoU: 81.84%; eval cIoU: 75.38%; train pIoU: 83.05%; train cIoU: 78.03%
+2021-12-05 13:34:12,791 - main.py[line:181] - INFO: Epoch: 144; eval pIoU: 82.09%; eval cIoU: 76.50%; train pIoU: 83.02%; train cIoU: 77.92%
+2021-12-05 13:34:12,795 - main.py[line:186] - INFO: New best model is achieved at epoch 144 with eval pIoU as 82.09%
+2021-12-05 13:35:47,964 - main.py[line:181] - INFO: Epoch: 145; eval pIoU: 82.05%; eval cIoU: 76.72%; train pIoU: 83.07%; train cIoU: 77.77%
+2021-12-05 13:37:23,104 - main.py[line:181] - INFO: Epoch: 146; eval pIoU: 81.89%; eval cIoU: 76.22%; train pIoU: 83.05%; train cIoU: 78.02%
+2021-12-05 13:38:58,288 - main.py[line:181] - INFO: Epoch: 147; eval pIoU: 81.90%; eval cIoU: 76.92%; train pIoU: 83.10%; train cIoU: 77.87%
+2021-12-05 13:40:33,478 - main.py[line:181] - INFO: Epoch: 148; eval pIoU: 82.03%; eval cIoU: 76.67%; train pIoU: 83.07%; train cIoU: 78.15%
+2021-12-05 13:42:08,657 - main.py[line:181] - INFO: Epoch: 149; eval pIoU: 81.85%; eval cIoU: 76.60%; train pIoU: 83.11%; train cIoU: 77.95%
+2021-12-05 13:43:43,841 - main.py[line:181] - INFO: Epoch: 150; eval pIoU: 82.06%; eval cIoU: 76.65%; train pIoU: 83.09%; train cIoU: 78.08%
+2021-12-05 13:45:18,993 - main.py[line:181] - INFO: Epoch: 151; eval pIoU: 82.28%; eval cIoU: 76.40%; train pIoU: 83.21%; train cIoU: 78.34%
+2021-12-05 13:45:18,997 - main.py[line:186] - INFO: New best model is achieved at epoch 151 with eval pIoU as 82.28%
+2021-12-05 13:46:54,167 - main.py[line:181] - INFO: Epoch: 152; eval pIoU: 81.67%; eval cIoU: 76.28%; train pIoU: 83.17%; train cIoU: 78.03%
+2021-12-05 13:48:29,310 - main.py[line:181] - INFO: Epoch: 153; eval pIoU: 81.96%; eval cIoU: 76.17%; train pIoU: 83.07%; train cIoU: 77.91%
+2021-12-05 13:50:04,441 - main.py[line:181] - INFO: Epoch: 154; eval pIoU: 81.95%; eval cIoU: 76.88%; train pIoU: 83.18%; train cIoU: 78.25%
+2021-12-05 13:51:39,590 - main.py[line:181] - INFO: Epoch: 155; eval pIoU: 81.90%; eval cIoU: 77.33%; train pIoU: 83.14%; train cIoU: 78.03%
+2021-12-05 13:53:14,739 - main.py[line:181] - INFO: Epoch: 156; eval pIoU: 81.95%; eval cIoU: 75.89%; train pIoU: 83.21%; train cIoU: 78.17%
+2021-12-05 13:54:49,898 - main.py[line:181] - INFO: Epoch: 157; eval pIoU: 81.44%; eval cIoU: 75.80%; train pIoU: 83.15%; train cIoU: 78.17%
+2021-12-05 13:56:25,047 - main.py[line:181] - INFO: Epoch: 158; eval pIoU: 81.76%; eval cIoU: 76.26%; train pIoU: 83.20%; train cIoU: 78.10%
+2021-12-05 13:58:00,216 - main.py[line:181] - INFO: Epoch: 159; eval pIoU: 82.01%; eval cIoU: 75.84%; train pIoU: 83.21%; train cIoU: 78.42%
+2021-12-05 13:59:35,386 - main.py[line:181] - INFO: Epoch: 160; eval pIoU: 81.69%; eval cIoU: 76.12%; train pIoU: 83.21%; train cIoU: 78.37%
+2021-12-05 14:01:10,515 - main.py[line:181] - INFO: Epoch: 161; eval pIoU: 81.93%; eval cIoU: 76.22%; train pIoU: 83.20%; train cIoU: 78.32%
+2021-12-05 14:02:45,623 - main.py[line:181] - INFO: Epoch: 162; eval pIoU: 82.12%; eval cIoU: 76.78%; train pIoU: 83.10%; train cIoU: 77.86%
+2021-12-05 14:04:20,732 - main.py[line:181] - INFO: Epoch: 163; eval pIoU: 81.95%; eval cIoU: 76.48%; train pIoU: 83.27%; train cIoU: 78.29%
+2021-12-05 14:05:55,867 - main.py[line:181] - INFO: Epoch: 164; eval pIoU: 81.92%; eval cIoU: 76.95%; train pIoU: 83.22%; train cIoU: 78.39%
+2021-12-05 14:07:30,948 - main.py[line:181] - INFO: Epoch: 165; eval pIoU: 81.98%; eval cIoU: 76.82%; train pIoU: 83.26%; train cIoU: 78.41%
+2021-12-05 14:09:06,031 - main.py[line:181] - INFO: Epoch: 166; eval pIoU: 82.07%; eval cIoU: 76.55%; train pIoU: 83.30%; train cIoU: 78.36%
+2021-12-05 14:10:41,111 - main.py[line:181] - INFO: Epoch: 167; eval pIoU: 82.23%; eval cIoU: 76.51%; train pIoU: 83.26%; train cIoU: 78.23%
+2021-12-05 14:12:16,160 - main.py[line:181] - INFO: Epoch: 168; eval pIoU: 82.11%; eval cIoU: 75.98%; train pIoU: 83.27%; train cIoU: 78.54%
+2021-12-05 14:13:51,219 - main.py[line:181] - INFO: Epoch: 169; eval pIoU: 81.69%; eval cIoU: 76.24%; train pIoU: 83.30%; train cIoU: 78.32%
+2021-12-05 14:15:26,330 - main.py[line:181] - INFO: Epoch: 170; eval pIoU: 82.06%; eval cIoU: 77.11%; train pIoU: 83.28%; train cIoU: 78.40%
+2021-12-05 14:17:01,433 - main.py[line:181] - INFO: Epoch: 171; eval pIoU: 82.21%; eval cIoU: 76.52%; train pIoU: 83.33%; train cIoU: 78.40%
+2021-12-05 14:18:36,565 - main.py[line:181] - INFO: Epoch: 172; eval pIoU: 82.09%; eval cIoU: 76.35%; train pIoU: 83.37%; train cIoU: 78.52%
+2021-12-05 14:20:11,719 - main.py[line:181] - INFO: Epoch: 173; eval pIoU: 82.21%; eval cIoU: 76.28%; train pIoU: 83.32%; train cIoU: 78.30%
+2021-12-05 14:21:46,793 - main.py[line:181] - INFO: Epoch: 174; eval pIoU: 81.85%; eval cIoU: 76.05%; train pIoU: 83.32%; train cIoU: 78.85%
+2021-12-05 14:23:21,919 - main.py[line:181] - INFO: Epoch: 175; eval pIoU: 82.12%; eval cIoU: 76.73%; train pIoU: 83.39%; train cIoU: 78.40%
+2021-12-05 14:24:57,088 - main.py[line:181] - INFO: Epoch: 176; eval pIoU: 82.12%; eval cIoU: 76.77%; train pIoU: 83.36%; train cIoU: 78.52%
+2021-12-05 14:26:32,419 - main.py[line:181] - INFO: Epoch: 177; eval pIoU: 82.16%; eval cIoU: 77.01%; train pIoU: 83.27%; train cIoU: 78.50%
+2021-12-05 14:28:07,526 - main.py[line:181] - INFO: Epoch: 178; eval pIoU: 82.07%; eval cIoU: 75.92%; train pIoU: 83.32%; train cIoU: 78.41%
+2021-12-05 14:29:42,616 - main.py[line:181] - INFO: Epoch: 179; eval pIoU: 82.11%; eval cIoU: 76.94%; train pIoU: 83.36%; train cIoU: 78.41%
+2021-12-05 14:31:17,732 - main.py[line:181] - INFO: Epoch: 180; eval pIoU: 82.52%; eval cIoU: 76.72%; train pIoU: 83.39%; train cIoU: 78.66%
+2021-12-05 14:31:17,736 - main.py[line:186] - INFO: New best model is achieved at epoch 180 with eval pIoU as 82.52%
+2021-12-05 14:32:52,839 - main.py[line:181] - INFO: Epoch: 181; eval pIoU: 82.15%; eval cIoU: 77.34%; train pIoU: 83.30%; train cIoU: 78.56%
+2021-12-05 14:34:27,953 - main.py[line:181] - INFO: Epoch: 182; eval pIoU: 82.19%; eval cIoU: 76.65%; train pIoU: 83.46%; train cIoU: 78.47%
+2021-12-05 14:36:03,068 - main.py[line:181] - INFO: Epoch: 183; eval pIoU: 82.13%; eval cIoU: 76.25%; train pIoU: 83.34%; train cIoU: 78.84%
+2021-12-05 14:37:38,202 - main.py[line:181] - INFO: Epoch: 184; eval pIoU: 81.98%; eval cIoU: 76.14%; train pIoU: 83.31%; train cIoU: 78.07%
+2021-12-05 14:39:13,318 - main.py[line:181] - INFO: Epoch: 185; eval pIoU: 82.28%; eval cIoU: 76.72%; train pIoU: 83.43%; train cIoU: 78.75%
+2021-12-05 14:40:48,382 - main.py[line:181] - INFO: Epoch: 186; eval pIoU: 82.11%; eval cIoU: 77.01%; train pIoU: 83.47%; train cIoU: 78.61%
+2021-12-05 14:42:23,510 - main.py[line:181] - INFO: Epoch: 187; eval pIoU: 81.65%; eval cIoU: 76.10%; train pIoU: 83.47%; train cIoU: 78.71%
+2021-12-05 14:43:58,671 - main.py[line:181] - INFO: Epoch: 188; eval pIoU: 82.27%; eval cIoU: 76.85%; train pIoU: 83.49%; train cIoU: 78.63%
+2021-12-05 14:45:33,789 - main.py[line:181] - INFO: Epoch: 189; eval pIoU: 81.99%; eval cIoU: 77.43%; train pIoU: 83.54%; train cIoU: 78.92%
+2021-12-05 14:47:08,876 - main.py[line:181] - INFO: Epoch: 190; eval pIoU: 81.90%; eval cIoU: 76.87%; train pIoU: 83.43%; train cIoU: 78.52%
+2021-12-05 14:48:43,964 - main.py[line:181] - INFO: Epoch: 191; eval pIoU: 82.53%; eval cIoU: 77.20%; train pIoU: 83.43%; train cIoU: 78.82%
+2021-12-05 14:48:43,967 - main.py[line:186] - INFO: New best model is achieved at epoch 191 with eval pIoU as 82.53%
+2021-12-05 14:50:19,045 - main.py[line:181] - INFO: Epoch: 192; eval pIoU: 82.11%; eval cIoU: 75.88%; train pIoU: 83.49%; train cIoU: 78.67%
+2021-12-05 14:51:54,135 - main.py[line:181] - INFO: Epoch: 193; eval pIoU: 82.14%; eval cIoU: 76.52%; train pIoU: 83.45%; train cIoU: 78.37%
+2021-12-05 14:53:29,243 - main.py[line:181] - INFO: Epoch: 194; eval pIoU: 82.19%; eval cIoU: 76.91%; train pIoU: 83.47%; train cIoU: 78.71%
+2021-12-05 14:55:04,345 - main.py[line:181] - INFO: Epoch: 195; eval pIoU: 81.84%; eval cIoU: 76.50%; train pIoU: 83.52%; train cIoU: 78.60%
+2021-12-05 14:56:39,470 - main.py[line:181] - INFO: Epoch: 196; eval pIoU: 82.61%; eval cIoU: 77.06%; train pIoU: 83.50%; train cIoU: 78.77%
+2021-12-05 14:56:39,473 - main.py[line:186] - INFO: New best model is achieved at epoch 196 with eval pIoU as 82.61%
+2021-12-05 14:58:14,594 - main.py[line:181] - INFO: Epoch: 197; eval pIoU: 82.35%; eval cIoU: 76.77%; train pIoU: 83.48%; train cIoU: 78.68%
+2021-12-05 14:59:49,710 - main.py[line:181] - INFO: Epoch: 198; eval pIoU: 82.26%; eval cIoU: 77.22%; train pIoU: 83.58%; train cIoU: 78.87%
+2021-12-05 15:01:24,839 - main.py[line:181] - INFO: Epoch: 199; eval pIoU: 81.84%; eval cIoU: 76.82%; train pIoU: 83.58%; train cIoU: 78.91%
+2021-12-05 15:02:59,956 - main.py[line:181] - INFO: Epoch: 200; eval pIoU: 82.04%; eval cIoU: 76.92%; train pIoU: 83.47%; train cIoU: 78.79%
+2021-12-05 15:04:35,072 - main.py[line:181] - INFO: Epoch: 201; eval pIoU: 82.94%; eval cIoU: 77.99%; train pIoU: 84.15%; train cIoU: 79.86%
+2021-12-05 15:04:35,076 - main.py[line:186] - INFO: New best model is achieved at epoch 201 with eval pIoU as 82.94%
+2021-12-05 15:06:10,129 - main.py[line:181] - INFO: Epoch: 202; eval pIoU: 82.93%; eval cIoU: 77.88%; train pIoU: 84.49%; train cIoU: 80.27%
+2021-12-05 15:07:45,229 - main.py[line:181] - INFO: Epoch: 203; eval pIoU: 82.98%; eval cIoU: 78.02%; train pIoU: 84.51%; train cIoU: 80.00%
+2021-12-05 15:07:45,233 - main.py[line:186] - INFO: New best model is achieved at epoch 203 with eval pIoU as 82.98%
+2021-12-05 15:09:20,294 - main.py[line:181] - INFO: Epoch: 204; eval pIoU: 83.01%; eval cIoU: 78.27%; train pIoU: 84.56%; train cIoU: 80.15%
+2021-12-05 15:09:20,298 - main.py[line:186] - INFO: New best model is achieved at epoch 204 with eval pIoU as 83.01%
+2021-12-05 15:10:55,356 - main.py[line:181] - INFO: Epoch: 205; eval pIoU: 83.14%; eval cIoU: 78.11%; train pIoU: 84.61%; train cIoU: 80.18%
+2021-12-05 15:10:55,360 - main.py[line:186] - INFO: New best model is achieved at epoch 205 with eval pIoU as 83.14%
+2021-12-05 15:12:30,461 - main.py[line:181] - INFO: Epoch: 206; eval pIoU: 83.03%; eval cIoU: 77.96%; train pIoU: 84.58%; train cIoU: 80.32%
+2021-12-05 15:14:05,535 - main.py[line:181] - INFO: Epoch: 207; eval pIoU: 83.01%; eval cIoU: 78.00%; train pIoU: 84.60%; train cIoU: 80.50%
+2021-12-05 15:15:40,619 - main.py[line:181] - INFO: Epoch: 208; eval pIoU: 83.00%; eval cIoU: 77.90%; train pIoU: 84.65%; train cIoU: 80.41%
+2021-12-05 15:17:15,713 - main.py[line:181] - INFO: Epoch: 209; eval pIoU: 83.04%; eval cIoU: 77.82%; train pIoU: 84.65%; train cIoU: 80.33%
+2021-12-05 15:18:50,806 - main.py[line:181] - INFO: Epoch: 210; eval pIoU: 83.07%; eval cIoU: 78.20%; train pIoU: 84.67%; train cIoU: 80.25%
+2021-12-05 15:20:25,876 - main.py[line:181] - INFO: Epoch: 211; eval pIoU: 83.08%; eval cIoU: 78.22%; train pIoU: 84.69%; train cIoU: 80.27%
+2021-12-05 15:22:00,933 - main.py[line:181] - INFO: Epoch: 212; eval pIoU: 83.06%; eval cIoU: 78.25%; train pIoU: 84.68%; train cIoU: 80.54%
+2021-12-05 15:23:36,008 - main.py[line:181] - INFO: Epoch: 213; eval pIoU: 83.06%; eval cIoU: 78.19%; train pIoU: 84.67%; train cIoU: 80.41%
+2021-12-05 15:25:11,117 - main.py[line:181] - INFO: Epoch: 214; eval pIoU: 83.02%; eval cIoU: 78.06%; train pIoU: 84.68%; train cIoU: 80.44%
+2021-12-05 15:26:46,203 - main.py[line:181] - INFO: Epoch: 215; eval pIoU: 83.09%; eval cIoU: 78.01%; train pIoU: 84.73%; train cIoU: 80.38%
+2021-12-05 15:28:21,243 - main.py[line:181] - INFO: Epoch: 216; eval pIoU: 83.05%; eval cIoU: 78.03%; train pIoU: 84.72%; train cIoU: 80.54%
+2021-12-05 15:29:56,331 - main.py[line:181] - INFO: Epoch: 217; eval pIoU: 83.02%; eval cIoU: 78.07%; train pIoU: 84.68%; train cIoU: 80.67%
+2021-12-05 15:31:31,402 - main.py[line:181] - INFO: Epoch: 218; eval pIoU: 83.07%; eval cIoU: 77.97%; train pIoU: 84.77%; train cIoU: 80.38%
+2021-12-05 15:33:06,473 - main.py[line:181] - INFO: Epoch: 219; eval pIoU: 83.05%; eval cIoU: 78.18%; train pIoU: 84.77%; train cIoU: 80.43%
+2021-12-05 15:34:41,561 - main.py[line:181] - INFO: Epoch: 220; eval pIoU: 83.03%; eval cIoU: 78.40%; train pIoU: 84.80%; train cIoU: 80.57%
+2021-12-05 15:36:16,654 - main.py[line:181] - INFO: Epoch: 221; eval pIoU: 83.10%; eval cIoU: 78.09%; train pIoU: 84.77%; train cIoU: 80.40%
+2021-12-05 15:37:51,846 - main.py[line:181] - INFO: Epoch: 222; eval pIoU: 83.07%; eval cIoU: 77.99%; train pIoU: 84.79%; train cIoU: 80.37%
+2021-12-05 15:39:26,976 - main.py[line:181] - INFO: Epoch: 223; eval pIoU: 83.11%; eval cIoU: 78.31%; train pIoU: 84.78%; train cIoU: 80.72%
+2021-12-05 15:41:02,024 - main.py[line:181] - INFO: Epoch: 224; eval pIoU: 83.12%; eval cIoU: 78.11%; train pIoU: 84.81%; train cIoU: 80.54%
+2021-12-05 15:42:37,095 - main.py[line:181] - INFO: Epoch: 225; eval pIoU: 83.08%; eval cIoU: 78.12%; train pIoU: 84.77%; train cIoU: 80.29%
+2021-12-05 15:44:12,177 - main.py[line:181] - INFO: Epoch: 226; eval pIoU: 83.05%; eval cIoU: 78.19%; train pIoU: 84.77%; train cIoU: 80.56%
+2021-12-05 15:45:47,221 - main.py[line:181] - INFO: Epoch: 227; eval pIoU: 83.20%; eval cIoU: 78.49%; train pIoU: 84.81%; train cIoU: 80.49%
+2021-12-05 15:45:47,225 - main.py[line:186] - INFO: New best model is achieved at epoch 227 with eval pIoU as 83.20%
+2021-12-05 15:47:22,285 - main.py[line:181] - INFO: Epoch: 228; eval pIoU: 83.18%; eval cIoU: 78.23%; train pIoU: 84.80%; train cIoU: 80.67%
+2021-12-05 15:48:57,354 - main.py[line:181] - INFO: Epoch: 229; eval pIoU: 83.13%; eval cIoU: 78.33%; train pIoU: 84.79%; train cIoU: 80.69%
+2021-12-05 15:50:32,437 - main.py[line:181] - INFO: Epoch: 230; eval pIoU: 83.13%; eval cIoU: 78.32%; train pIoU: 84.82%; train cIoU: 80.68%
+2021-12-05 15:52:07,462 - main.py[line:181] - INFO: Epoch: 231; eval pIoU: 83.10%; eval cIoU: 78.15%; train pIoU: 84.79%; train cIoU: 80.66%
+2021-12-05 15:53:42,526 - main.py[line:181] - INFO: Epoch: 232; eval pIoU: 83.20%; eval cIoU: 78.51%; train pIoU: 84.81%; train cIoU: 80.66%
+2021-12-05 15:53:42,530 - main.py[line:186] - INFO: New best model is achieved at epoch 232 with eval pIoU as 83.20%
+2021-12-05 15:55:17,618 - main.py[line:181] - INFO: Epoch: 233; eval pIoU: 83.12%; eval cIoU: 78.24%; train pIoU: 84.86%; train cIoU: 80.80%
+2021-12-05 15:56:52,737 - main.py[line:181] - INFO: Epoch: 234; eval pIoU: 83.08%; eval cIoU: 78.25%; train pIoU: 84.85%; train cIoU: 80.57%
+2021-12-05 15:58:27,834 - main.py[line:181] - INFO: Epoch: 235; eval pIoU: 83.11%; eval cIoU: 78.25%; train pIoU: 84.79%; train cIoU: 80.42%
+2021-12-05 16:00:02,944 - main.py[line:181] - INFO: Epoch: 236; eval pIoU: 83.16%; eval cIoU: 78.42%; train pIoU: 84.86%; train cIoU: 80.74%
+2021-12-05 16:01:38,047 - main.py[line:181] - INFO: Epoch: 237; eval pIoU: 83.09%; eval cIoU: 78.43%; train pIoU: 84.82%; train cIoU: 80.81%
+2021-12-05 16:03:13,107 - main.py[line:181] - INFO: Epoch: 238; eval pIoU: 83.27%; eval cIoU: 78.50%; train pIoU: 84.79%; train cIoU: 80.82%
+2021-12-05 16:03:13,111 - main.py[line:186] - INFO: New best model is achieved at epoch 238 with eval pIoU as 83.27%
+2021-12-05 16:04:48,218 - main.py[line:181] - INFO: Epoch: 239; eval pIoU: 83.05%; eval cIoU: 78.27%; train pIoU: 84.81%; train cIoU: 80.64%
+2021-12-05 16:06:23,418 - main.py[line:181] - INFO: Epoch: 240; eval pIoU: 83.17%; eval cIoU: 78.40%; train pIoU: 84.79%; train cIoU: 80.66%
+2021-12-05 16:07:58,609 - main.py[line:181] - INFO: Epoch: 241; eval pIoU: 83.14%; eval cIoU: 78.18%; train pIoU: 84.84%; train cIoU: 80.70%
+2021-12-05 16:09:33,796 - main.py[line:181] - INFO: Epoch: 242; eval pIoU: 83.11%; eval cIoU: 78.36%; train pIoU: 84.79%; train cIoU: 80.48%
+2021-12-05 16:11:08,876 - main.py[line:181] - INFO: Epoch: 243; eval pIoU: 83.07%; eval cIoU: 78.22%; train pIoU: 84.88%; train cIoU: 80.75%
+2021-12-05 16:12:43,921 - main.py[line:181] - INFO: Epoch: 244; eval pIoU: 83.14%; eval cIoU: 78.40%; train pIoU: 84.85%; train cIoU: 80.70%
+2021-12-05 16:14:18,956 - main.py[line:181] - INFO: Epoch: 245; eval pIoU: 83.06%; eval cIoU: 78.13%; train pIoU: 84.79%; train cIoU: 80.52%
+2021-12-05 16:15:53,991 - main.py[line:181] - INFO: Epoch: 246; eval pIoU: 83.05%; eval cIoU: 78.13%; train pIoU: 84.89%; train cIoU: 80.50%
+2021-12-05 16:17:29,028 - main.py[line:181] - INFO: Epoch: 247; eval pIoU: 83.08%; eval cIoU: 78.01%; train pIoU: 84.91%; train cIoU: 80.73%
+2021-12-05 16:19:04,095 - main.py[line:181] - INFO: Epoch: 248; eval pIoU: 83.14%; eval cIoU: 78.10%; train pIoU: 84.88%; train cIoU: 80.74%
+2021-12-05 16:20:39,143 - main.py[line:181] - INFO: Epoch: 249; eval pIoU: 83.16%; eval cIoU: 78.13%; train pIoU: 84.88%; train cIoU: 80.84%
+2021-12-05 16:22:14,222 - main.py[line:181] - INFO: Epoch: 250; eval pIoU: 83.11%; eval cIoU: 78.11%; train pIoU: 84.90%; train cIoU: 80.84%
+2021-12-05 16:23:49,290 - main.py[line:181] - INFO: Epoch: 251; eval pIoU: 83.23%; eval cIoU: 78.53%; train pIoU: 84.85%; train cIoU: 80.76%
+2021-12-05 16:25:24,384 - main.py[line:181] - INFO: Epoch: 252; eval pIoU: 83.15%; eval cIoU: 78.20%; train pIoU: 84.90%; train cIoU: 80.69%
+2021-12-05 16:26:59,477 - main.py[line:181] - INFO: Epoch: 253; eval pIoU: 83.12%; eval cIoU: 78.32%; train pIoU: 84.91%; train cIoU: 80.75%
+2021-12-05 16:28:34,573 - main.py[line:181] - INFO: Epoch: 254; eval pIoU: 83.17%; eval cIoU: 78.25%; train pIoU: 84.91%; train cIoU: 80.62%
+2021-12-05 16:30:09,668 - main.py[line:181] - INFO: Epoch: 255; eval pIoU: 83.06%; eval cIoU: 78.27%; train pIoU: 84.86%; train cIoU: 80.52%
+2021-12-05 16:31:44,769 - main.py[line:181] - INFO: Epoch: 256; eval pIoU: 83.16%; eval cIoU: 78.27%; train pIoU: 84.94%; train cIoU: 81.00%
+2021-12-05 16:33:19,873 - main.py[line:181] - INFO: Epoch: 257; eval pIoU: 83.12%; eval cIoU: 78.35%; train pIoU: 84.93%; train cIoU: 80.70%
+2021-12-05 16:34:54,941 - main.py[line:181] - INFO: Epoch: 258; eval pIoU: 83.14%; eval cIoU: 78.22%; train pIoU: 84.94%; train cIoU: 80.72%
+2021-12-05 16:36:30,010 - main.py[line:181] - INFO: Epoch: 259; eval pIoU: 83.10%; eval cIoU: 78.36%; train pIoU: 84.91%; train cIoU: 80.64%
+2021-12-05 16:38:05,081 - main.py[line:181] - INFO: Epoch: 260; eval pIoU: 83.06%; eval cIoU: 78.14%; train pIoU: 84.96%; train cIoU: 80.89%
+2021-12-05 16:39:40,153 - main.py[line:181] - INFO: Epoch: 261; eval pIoU: 83.20%; eval cIoU: 78.26%; train pIoU: 84.90%; train cIoU: 80.74%
+2021-12-05 16:41:15,221 - main.py[line:181] - INFO: Epoch: 262; eval pIoU: 83.15%; eval cIoU: 78.40%; train pIoU: 85.00%; train cIoU: 80.91%
+2021-12-05 16:42:50,290 - main.py[line:181] - INFO: Epoch: 263; eval pIoU: 83.19%; eval cIoU: 78.50%; train pIoU: 84.89%; train cIoU: 80.68%
+2021-12-05 16:44:25,449 - main.py[line:181] - INFO: Epoch: 264; eval pIoU: 83.04%; eval cIoU: 78.23%; train pIoU: 84.93%; train cIoU: 80.78%
+2021-12-05 16:46:00,630 - main.py[line:181] - INFO: Epoch: 265; eval pIoU: 83.18%; eval cIoU: 78.09%; train pIoU: 84.92%; train cIoU: 81.00%
+2021-12-05 16:47:35,862 - main.py[line:181] - INFO: Epoch: 266; eval pIoU: 83.13%; eval cIoU: 77.96%; train pIoU: 84.95%; train cIoU: 80.88%
+2021-12-05 16:49:11,043 - main.py[line:181] - INFO: Epoch: 267; eval pIoU: 83.11%; eval cIoU: 78.07%; train pIoU: 84.93%; train cIoU: 81.08%
+2021-12-05 16:50:46,193 - main.py[line:181] - INFO: Epoch: 268; eval pIoU: 83.16%; eval cIoU: 78.13%; train pIoU: 84.96%; train cIoU: 80.80%
+2021-12-05 16:52:21,314 - main.py[line:181] - INFO: Epoch: 269; eval pIoU: 83.22%; eval cIoU: 78.19%; train pIoU: 84.95%; train cIoU: 80.82%
+2021-12-05 16:53:56,415 - main.py[line:181] - INFO: Epoch: 270; eval pIoU: 83.23%; eval cIoU: 78.46%; train pIoU: 85.04%; train cIoU: 80.90%
+2021-12-05 16:55:31,524 - main.py[line:181] - INFO: Epoch: 271; eval pIoU: 83.11%; eval cIoU: 78.21%; train pIoU: 84.94%; train cIoU: 80.74%
+2021-12-05 16:57:06,594 - main.py[line:181] - INFO: Epoch: 272; eval pIoU: 83.13%; eval cIoU: 78.27%; train pIoU: 84.96%; train cIoU: 80.91%
+2021-12-05 16:58:41,710 - main.py[line:181] - INFO: Epoch: 273; eval pIoU: 83.27%; eval cIoU: 78.36%; train pIoU: 84.94%; train cIoU: 80.74%
+2021-12-05 16:58:41,714 - main.py[line:186] - INFO: New best model is achieved at epoch 273 with eval pIoU as 83.27%
+2021-12-05 17:00:16,993 - main.py[line:181] - INFO: Epoch: 274; eval pIoU: 83.20%; eval cIoU: 78.30%; train pIoU: 84.90%; train cIoU: 80.70%
+2021-12-05 17:01:52,797 - main.py[line:181] - INFO: Epoch: 275; eval pIoU: 83.13%; eval cIoU: 78.08%; train pIoU: 85.01%; train cIoU: 81.07%
+2021-12-05 17:03:29,413 - main.py[line:181] - INFO: Epoch: 276; eval pIoU: 83.29%; eval cIoU: 78.29%; train pIoU: 84.96%; train cIoU: 80.95%
+2021-12-05 17:03:29,417 - main.py[line:186] - INFO: New best model is achieved at epoch 276 with eval pIoU as 83.29%
+2021-12-05 17:05:04,620 - main.py[line:181] - INFO: Epoch: 277; eval pIoU: 83.22%; eval cIoU: 78.27%; train pIoU: 84.93%; train cIoU: 80.86%
+2021-12-05 17:06:40,069 - main.py[line:181] - INFO: Epoch: 278; eval pIoU: 83.23%; eval cIoU: 78.40%; train pIoU: 84.96%; train cIoU: 80.94%
+2021-12-05 17:08:15,241 - main.py[line:181] - INFO: Epoch: 279; eval pIoU: 83.24%; eval cIoU: 78.32%; train pIoU: 85.06%; train cIoU: 80.93%
+2021-12-05 17:09:50,398 - main.py[line:181] - INFO: Epoch: 280; eval pIoU: 83.22%; eval cIoU: 78.34%; train pIoU: 85.01%; train cIoU: 80.84%
+2021-12-05 17:11:25,618 - main.py[line:181] - INFO: Epoch: 281; eval pIoU: 83.16%; eval cIoU: 78.23%; train pIoU: 84.96%; train cIoU: 80.86%
+2021-12-05 17:13:00,811 - main.py[line:181] - INFO: Epoch: 282; eval pIoU: 83.24%; eval cIoU: 78.37%; train pIoU: 85.02%; train cIoU: 80.92%
+2021-12-05 17:14:35,969 - main.py[line:181] - INFO: Epoch: 283; eval pIoU: 83.12%; eval cIoU: 78.15%; train pIoU: 84.96%; train cIoU: 80.75%
+2021-12-05 17:16:11,124 - main.py[line:181] - INFO: Epoch: 284; eval pIoU: 83.26%; eval cIoU: 78.25%; train pIoU: 85.03%; train cIoU: 81.11%
+2021-12-05 17:17:46,288 - main.py[line:181] - INFO: Epoch: 285; eval pIoU: 83.15%; eval cIoU: 78.20%; train pIoU: 84.95%; train cIoU: 80.80%
+2021-12-05 17:19:21,454 - main.py[line:181] - INFO: Epoch: 286; eval pIoU: 83.25%; eval cIoU: 78.39%; train pIoU: 85.08%; train cIoU: 81.08%
+2021-12-05 17:20:56,581 - main.py[line:181] - INFO: Epoch: 287; eval pIoU: 83.18%; eval cIoU: 78.33%; train pIoU: 85.01%; train cIoU: 81.03%
+2021-12-05 17:22:31,667 - main.py[line:181] - INFO: Epoch: 288; eval pIoU: 83.23%; eval cIoU: 78.40%; train pIoU: 84.95%; train cIoU: 81.02%
+2021-12-05 17:24:06,843 - main.py[line:181] - INFO: Epoch: 289; eval pIoU: 83.15%; eval cIoU: 78.30%; train pIoU: 84.97%; train cIoU: 81.02%
+2021-12-05 17:25:41,976 - main.py[line:181] - INFO: Epoch: 290; eval pIoU: 83.20%; eval cIoU: 78.22%; train pIoU: 84.97%; train cIoU: 81.01%
+2021-12-05 17:27:17,207 - main.py[line:181] - INFO: Epoch: 291; eval pIoU: 83.19%; eval cIoU: 78.24%; train pIoU: 85.02%; train cIoU: 80.94%
+2021-12-05 17:28:52,449 - main.py[line:181] - INFO: Epoch: 292; eval pIoU: 83.23%; eval cIoU: 78.41%; train pIoU: 84.96%; train cIoU: 80.85%
+2021-12-05 17:30:27,675 - main.py[line:181] - INFO: Epoch: 293; eval pIoU: 83.21%; eval cIoU: 78.32%; train pIoU: 85.07%; train cIoU: 81.12%
+2021-12-05 17:32:02,922 - main.py[line:181] - INFO: Epoch: 294; eval pIoU: 83.36%; eval cIoU: 78.50%; train pIoU: 84.99%; train cIoU: 80.85%
+2021-12-05 17:32:02,926 - main.py[line:186] - INFO: New best model is achieved at epoch 294 with eval pIoU as 83.36%
+2021-12-05 17:33:38,045 - main.py[line:181] - INFO: Epoch: 295; eval pIoU: 83.30%; eval cIoU: 78.47%; train pIoU: 84.97%; train cIoU: 80.77%
+2021-12-05 17:35:13,518 - main.py[line:181] - INFO: Epoch: 296; eval pIoU: 83.15%; eval cIoU: 78.28%; train pIoU: 85.00%; train cIoU: 80.84%
+2021-12-05 17:36:48,987 - main.py[line:181] - INFO: Epoch: 297; eval pIoU: 83.27%; eval cIoU: 78.46%; train pIoU: 84.98%; train cIoU: 81.03%
+2021-12-05 17:38:24,437 - main.py[line:181] - INFO: Epoch: 298; eval pIoU: 83.25%; eval cIoU: 78.17%; train pIoU: 84.94%; train cIoU: 80.81%
+2021-12-05 17:39:59,890 - main.py[line:181] - INFO: Epoch: 299; eval pIoU: 83.19%; eval cIoU: 78.48%; train pIoU: 85.05%; train cIoU: 80.87%
+2021-12-05 17:41:35,365 - main.py[line:181] - INFO: Epoch: 300; eval pIoU: 83.15%; eval cIoU: 78.07%; train pIoU: 85.03%; train cIoU: 80.90%
+2021-12-05 17:43:10,837 - main.py[line:181] - INFO: Epoch: 301; eval pIoU: 83.17%; eval cIoU: 78.17%; train pIoU: 85.10%; train cIoU: 81.21%
+2021-12-05 17:44:46,325 - main.py[line:181] - INFO: Epoch: 302; eval pIoU: 83.11%; eval cIoU: 78.33%; train pIoU: 85.05%; train cIoU: 81.02%
+2021-12-05 17:46:21,806 - main.py[line:181] - INFO: Epoch: 303; eval pIoU: 83.17%; eval cIoU: 78.34%; train pIoU: 84.98%; train cIoU: 80.95%
+2021-12-05 17:47:57,288 - main.py[line:181] - INFO: Epoch: 304; eval pIoU: 83.22%; eval cIoU: 78.46%; train pIoU: 84.99%; train cIoU: 81.07%
+2021-12-05 17:49:33,104 - main.py[line:181] - INFO: Epoch: 305; eval pIoU: 83.25%; eval cIoU: 78.40%; train pIoU: 85.05%; train cIoU: 81.07%
+2021-12-05 17:51:09,789 - main.py[line:181] - INFO: Epoch: 306; eval pIoU: 83.03%; eval cIoU: 78.12%; train pIoU: 85.08%; train cIoU: 81.01%
+2021-12-05 17:52:45,924 - main.py[line:181] - INFO: Epoch: 307; eval pIoU: 83.19%; eval cIoU: 78.42%; train pIoU: 85.03%; train cIoU: 80.99%
+2021-12-05 17:54:22,393 - main.py[line:181] - INFO: Epoch: 308; eval pIoU: 83.19%; eval cIoU: 78.30%; train pIoU: 85.09%; train cIoU: 80.96%
+2021-12-05 17:55:58,835 - main.py[line:181] - INFO: Epoch: 309; eval pIoU: 83.18%; eval cIoU: 78.16%; train pIoU: 85.00%; train cIoU: 80.83%
+2021-12-05 17:57:35,279 - main.py[line:181] - INFO: Epoch: 310; eval pIoU: 83.19%; eval cIoU: 78.31%; train pIoU: 85.15%; train cIoU: 81.15%
+2021-12-05 17:59:11,811 - main.py[line:181] - INFO: Epoch: 311; eval pIoU: 83.24%; eval cIoU: 78.39%; train pIoU: 85.08%; train cIoU: 81.10%
+2021-12-05 18:00:48,681 - main.py[line:181] - INFO: Epoch: 312; eval pIoU: 83.21%; eval cIoU: 78.45%; train pIoU: 85.04%; train cIoU: 81.02%
+2021-12-05 18:02:25,016 - main.py[line:181] - INFO: Epoch: 313; eval pIoU: 83.21%; eval cIoU: 78.39%; train pIoU: 85.02%; train cIoU: 81.12%
+2021-12-05 18:04:01,484 - main.py[line:181] - INFO: Epoch: 314; eval pIoU: 83.17%; eval cIoU: 78.51%; train pIoU: 85.15%; train cIoU: 81.04%
+2021-12-05 18:05:37,944 - main.py[line:181] - INFO: Epoch: 315; eval pIoU: 83.22%; eval cIoU: 78.47%; train pIoU: 85.12%; train cIoU: 81.22%
+2021-12-05 18:07:14,334 - main.py[line:181] - INFO: Epoch: 316; eval pIoU: 83.28%; eval cIoU: 78.38%; train pIoU: 85.06%; train cIoU: 80.91%
+2021-12-05 18:08:50,909 - main.py[line:181] - INFO: Epoch: 317; eval pIoU: 83.27%; eval cIoU: 78.53%; train pIoU: 85.10%; train cIoU: 81.03%
+2021-12-05 18:10:27,473 - main.py[line:181] - INFO: Epoch: 318; eval pIoU: 83.28%; eval cIoU: 78.44%; train pIoU: 85.06%; train cIoU: 80.90%
+2021-12-05 18:12:04,353 - main.py[line:181] - INFO: Epoch: 319; eval pIoU: 83.28%; eval cIoU: 78.52%; train pIoU: 85.04%; train cIoU: 81.00%
+2021-12-05 18:13:41,016 - main.py[line:181] - INFO: Epoch: 320; eval pIoU: 83.20%; eval cIoU: 78.25%; train pIoU: 85.10%; train cIoU: 81.31%
+2021-12-05 18:15:17,007 - main.py[line:181] - INFO: Epoch: 321; eval pIoU: 83.33%; eval cIoU: 78.47%; train pIoU: 85.05%; train cIoU: 81.08%
+2021-12-05 18:16:52,554 - main.py[line:181] - INFO: Epoch: 322; eval pIoU: 83.26%; eval cIoU: 78.47%; train pIoU: 85.07%; train cIoU: 80.96%
+2021-12-05 18:18:28,118 - main.py[line:181] - INFO: Epoch: 323; eval pIoU: 83.20%; eval cIoU: 78.12%; train pIoU: 85.11%; train cIoU: 81.10%
+2021-12-05 18:20:03,621 - main.py[line:181] - INFO: Epoch: 324; eval pIoU: 83.18%; eval cIoU: 78.22%; train pIoU: 85.02%; train cIoU: 80.89%
+2021-12-05 18:21:39,113 - main.py[line:181] - INFO: Epoch: 325; eval pIoU: 83.24%; eval cIoU: 78.54%; train pIoU: 85.12%; train cIoU: 81.02%
+2021-12-05 18:23:14,618 - main.py[line:181] - INFO: Epoch: 326; eval pIoU: 83.14%; eval cIoU: 78.33%; train pIoU: 85.02%; train cIoU: 81.10%
+2021-12-05 18:24:50,121 - main.py[line:181] - INFO: Epoch: 327; eval pIoU: 83.19%; eval cIoU: 78.47%; train pIoU: 85.15%; train cIoU: 81.10%
+2021-12-05 18:26:25,611 - main.py[line:181] - INFO: Epoch: 328; eval pIoU: 83.23%; eval cIoU: 78.39%; train pIoU: 85.14%; train cIoU: 81.16%
+2021-12-05 18:28:01,132 - main.py[line:181] - INFO: Epoch: 329; eval pIoU: 83.31%; eval cIoU: 78.48%; train pIoU: 85.07%; train cIoU: 81.10%
+2021-12-05 18:29:36,641 - main.py[line:181] - INFO: Epoch: 330; eval pIoU: 83.35%; eval cIoU: 78.72%; train pIoU: 85.16%; train cIoU: 81.23%
+2021-12-05 18:31:12,157 - main.py[line:181] - INFO: Epoch: 331; eval pIoU: 83.23%; eval cIoU: 78.52%; train pIoU: 85.08%; train cIoU: 81.28%
+2021-12-05 18:32:47,686 - main.py[line:181] - INFO: Epoch: 332; eval pIoU: 83.22%; eval cIoU: 78.49%; train pIoU: 85.08%; train cIoU: 81.00%
+2021-12-05 18:34:23,202 - main.py[line:181] - INFO: Epoch: 333; eval pIoU: 83.29%; eval cIoU: 78.38%; train pIoU: 85.07%; train cIoU: 81.01%
+2021-12-05 18:35:58,708 - main.py[line:181] - INFO: Epoch: 334; eval pIoU: 83.35%; eval cIoU: 78.40%; train pIoU: 85.12%; train cIoU: 81.29%
+2021-12-05 18:37:34,206 - main.py[line:181] - INFO: Epoch: 335; eval pIoU: 83.30%; eval cIoU: 78.57%; train pIoU: 85.06%; train cIoU: 81.24%
+2021-12-05 18:39:09,716 - main.py[line:181] - INFO: Epoch: 336; eval pIoU: 83.19%; eval cIoU: 78.25%; train pIoU: 85.12%; train cIoU: 80.91%
+2021-12-05 18:40:45,217 - main.py[line:181] - INFO: Epoch: 337; eval pIoU: 83.27%; eval cIoU: 78.53%; train pIoU: 85.17%; train cIoU: 81.09%
+2021-12-05 18:42:20,743 - main.py[line:181] - INFO: Epoch: 338; eval pIoU: 83.20%; eval cIoU: 78.27%; train pIoU: 85.17%; train cIoU: 81.19%
+2021-12-05 18:43:56,247 - main.py[line:181] - INFO: Epoch: 339; eval pIoU: 83.36%; eval cIoU: 78.51%; train pIoU: 85.18%; train cIoU: 81.12%
+2021-12-05 18:45:31,746 - main.py[line:181] - INFO: Epoch: 340; eval pIoU: 83.36%; eval cIoU: 78.44%; train pIoU: 85.15%; train cIoU: 81.03%
+2021-12-05 18:47:07,223 - main.py[line:181] - INFO: Epoch: 341; eval pIoU: 83.21%; eval cIoU: 78.32%; train pIoU: 85.14%; train cIoU: 81.05%
+2021-12-05 18:48:42,716 - main.py[line:181] - INFO: Epoch: 342; eval pIoU: 83.27%; eval cIoU: 78.46%; train pIoU: 85.06%; train cIoU: 80.88%
+2021-12-05 18:50:18,220 - main.py[line:181] - INFO: Epoch: 343; eval pIoU: 83.20%; eval cIoU: 78.49%; train pIoU: 85.13%; train cIoU: 81.16%
+2021-12-05 18:51:53,710 - main.py[line:181] - INFO: Epoch: 344; eval pIoU: 83.20%; eval cIoU: 78.35%; train pIoU: 85.11%; train cIoU: 81.19%
+2021-12-05 18:53:29,197 - main.py[line:181] - INFO: Epoch: 345; eval pIoU: 83.20%; eval cIoU: 78.29%; train pIoU: 85.15%; train cIoU: 81.26%
+2021-12-05 18:55:04,706 - main.py[line:181] - INFO: Epoch: 346; eval pIoU: 83.28%; eval cIoU: 78.54%; train pIoU: 85.15%; train cIoU: 81.33%
+2021-12-05 18:56:40,232 - main.py[line:181] - INFO: Epoch: 347; eval pIoU: 83.21%; eval cIoU: 78.40%; train pIoU: 85.16%; train cIoU: 81.32%
+2021-12-05 18:58:15,733 - main.py[line:181] - INFO: Epoch: 348; eval pIoU: 83.26%; eval cIoU: 78.37%; train pIoU: 85.17%; train cIoU: 81.16%
+2021-12-05 18:59:51,226 - main.py[line:181] - INFO: Epoch: 349; eval pIoU: 83.32%; eval cIoU: 78.60%; train pIoU: 85.15%; train cIoU: 81.40%
+2021-12-05 19:01:26,741 - main.py[line:181] - INFO: Epoch: 350; eval pIoU: 83.23%; eval cIoU: 78.57%; train pIoU: 85.15%; train cIoU: 81.44%
+2021-12-05 19:03:02,263 - main.py[line:181] - INFO: Epoch: 351; eval pIoU: 83.30%; eval cIoU: 78.59%; train pIoU: 85.19%; train cIoU: 81.47%
+2021-12-05 19:04:37,747 - main.py[line:181] - INFO: Epoch: 352; eval pIoU: 83.20%; eval cIoU: 78.33%; train pIoU: 85.18%; train cIoU: 81.05%
+2021-12-05 19:06:13,258 - main.py[line:181] - INFO: Epoch: 353; eval pIoU: 83.32%; eval cIoU: 78.70%; train pIoU: 85.16%; train cIoU: 81.23%
+2021-12-05 19:07:48,773 - main.py[line:181] - INFO: Epoch: 354; eval pIoU: 83.32%; eval cIoU: 78.70%; train pIoU: 85.18%; train cIoU: 81.16%
+2021-12-05 19:09:24,278 - main.py[line:181] - INFO: Epoch: 355; eval pIoU: 83.24%; eval cIoU: 78.61%; train pIoU: 85.24%; train cIoU: 81.21%
+2021-12-05 19:10:59,776 - main.py[line:181] - INFO: Epoch: 356; eval pIoU: 83.25%; eval cIoU: 78.49%; train pIoU: 85.16%; train cIoU: 81.15%
+2021-12-05 19:12:35,262 - main.py[line:181] - INFO: Epoch: 357; eval pIoU: 83.16%; eval cIoU: 78.36%; train pIoU: 85.18%; train cIoU: 81.16%
+2021-12-05 19:14:10,764 - main.py[line:181] - INFO: Epoch: 358; eval pIoU: 83.32%; eval cIoU: 78.41%; train pIoU: 85.21%; train cIoU: 81.07%
+2021-12-05 19:15:46,263 - main.py[line:181] - INFO: Epoch: 359; eval pIoU: 83.26%; eval cIoU: 78.61%; train pIoU: 85.15%; train cIoU: 81.19%
+2021-12-05 19:17:21,778 - main.py[line:181] - INFO: Epoch: 360; eval pIoU: 83.25%; eval cIoU: 78.55%; train pIoU: 85.17%; train cIoU: 81.20%
+2021-12-05 19:18:57,299 - main.py[line:181] - INFO: Epoch: 361; eval pIoU: 83.15%; eval cIoU: 78.46%; train pIoU: 85.18%; train cIoU: 81.19%
+2021-12-05 19:20:32,801 - main.py[line:181] - INFO: Epoch: 362; eval pIoU: 83.12%; eval cIoU: 78.48%; train pIoU: 85.17%; train cIoU: 81.21%
+2021-12-05 19:22:08,316 - main.py[line:181] - INFO: Epoch: 363; eval pIoU: 83.25%; eval cIoU: 78.64%; train pIoU: 85.11%; train cIoU: 81.07%
+2021-12-05 19:23:43,832 - main.py[line:181] - INFO: Epoch: 364; eval pIoU: 83.28%; eval cIoU: 78.64%; train pIoU: 85.12%; train cIoU: 81.22%
+2021-12-05 19:25:19,339 - main.py[line:181] - INFO: Epoch: 365; eval pIoU: 83.13%; eval cIoU: 78.55%; train pIoU: 85.14%; train cIoU: 81.28%
+2021-12-05 19:26:55,557 - main.py[line:181] - INFO: Epoch: 366; eval pIoU: 83.25%; eval cIoU: 78.60%; train pIoU: 85.23%; train cIoU: 81.28%
+2021-12-05 19:28:31,891 - main.py[line:181] - INFO: Epoch: 367; eval pIoU: 83.24%; eval cIoU: 78.53%; train pIoU: 85.14%; train cIoU: 81.05%
+2021-12-05 19:30:08,133 - main.py[line:181] - INFO: Epoch: 368; eval pIoU: 83.24%; eval cIoU: 78.60%; train pIoU: 85.16%; train cIoU: 80.99%
+2021-12-05 19:31:44,582 - main.py[line:181] - INFO: Epoch: 369; eval pIoU: 83.25%; eval cIoU: 78.63%; train pIoU: 85.15%; train cIoU: 80.99%
+2021-12-05 19:33:21,213 - main.py[line:181] - INFO: Epoch: 370; eval pIoU: 83.34%; eval cIoU: 78.83%; train pIoU: 85.14%; train cIoU: 81.46%
+2021-12-05 19:34:57,361 - main.py[line:181] - INFO: Epoch: 371; eval pIoU: 83.21%; eval cIoU: 78.61%; train pIoU: 85.28%; train cIoU: 81.41%
+2021-12-05 19:36:33,731 - main.py[line:181] - INFO: Epoch: 372; eval pIoU: 83.23%; eval cIoU: 78.52%; train pIoU: 85.19%; train cIoU: 81.44%
+2021-12-05 19:38:10,141 - main.py[line:181] - INFO: Epoch: 373; eval pIoU: 83.13%; eval cIoU: 78.33%; train pIoU: 85.24%; train cIoU: 81.24%
+2021-12-05 19:39:46,177 - main.py[line:181] - INFO: Epoch: 374; eval pIoU: 83.12%; eval cIoU: 78.29%; train pIoU: 85.22%; train cIoU: 81.52%
+2021-12-05 19:41:22,528 - main.py[line:181] - INFO: Epoch: 375; eval pIoU: 83.21%; eval cIoU: 78.57%; train pIoU: 85.23%; train cIoU: 81.22%
+2021-12-05 19:42:58,573 - main.py[line:181] - INFO: Epoch: 376; eval pIoU: 83.23%; eval cIoU: 78.48%; train pIoU: 85.21%; train cIoU: 81.56%
+2021-12-05 19:44:34,986 - main.py[line:181] - INFO: Epoch: 377; eval pIoU: 83.28%; eval cIoU: 78.51%; train pIoU: 85.22%; train cIoU: 81.22%
+2021-12-05 19:46:11,427 - main.py[line:181] - INFO: Epoch: 378; eval pIoU: 83.31%; eval cIoU: 78.54%; train pIoU: 85.20%; train cIoU: 81.20%
+2021-12-05 19:47:47,851 - main.py[line:181] - INFO: Epoch: 379; eval pIoU: 83.26%; eval cIoU: 78.74%; train pIoU: 85.21%; train cIoU: 81.21%
+2021-12-05 19:49:24,177 - main.py[line:181] - INFO: Epoch: 380; eval pIoU: 83.18%; eval cIoU: 78.53%; train pIoU: 85.21%; train cIoU: 81.25%
+2021-12-05 19:51:00,439 - main.py[line:181] - INFO: Epoch: 381; eval pIoU: 83.19%; eval cIoU: 78.44%; train pIoU: 85.27%; train cIoU: 81.41%
+2021-12-05 19:52:36,937 - main.py[line:181] - INFO: Epoch: 382; eval pIoU: 83.33%; eval cIoU: 78.52%; train pIoU: 85.26%; train cIoU: 81.52%
+2021-12-05 19:54:13,133 - main.py[line:181] - INFO: Epoch: 383; eval pIoU: 83.06%; eval cIoU: 78.58%; train pIoU: 85.27%; train cIoU: 81.20%
+2021-12-05 19:55:49,371 - main.py[line:181] - INFO: Epoch: 384; eval pIoU: 83.34%; eval cIoU: 78.67%; train pIoU: 85.27%; train cIoU: 81.43%
+2021-12-05 19:57:25,716 - main.py[line:181] - INFO: Epoch: 385; eval pIoU: 83.28%; eval cIoU: 78.73%; train pIoU: 85.22%; train cIoU: 81.35%
+2021-12-05 19:59:02,473 - main.py[line:181] - INFO: Epoch: 386; eval pIoU: 83.18%; eval cIoU: 78.32%; train pIoU: 85.25%; train cIoU: 81.28%
+2021-12-05 20:00:38,950 - main.py[line:181] - INFO: Epoch: 387; eval pIoU: 83.26%; eval cIoU: 78.44%; train pIoU: 85.20%; train cIoU: 81.45%
+2021-12-05 20:02:15,178 - main.py[line:181] - INFO: Epoch: 388; eval pIoU: 83.26%; eval cIoU: 78.52%; train pIoU: 85.27%; train cIoU: 81.28%
+2021-12-05 20:03:51,646 - main.py[line:181] - INFO: Epoch: 389; eval pIoU: 83.15%; eval cIoU: 78.28%; train pIoU: 85.28%; train cIoU: 81.27%
+2021-12-05 20:05:27,923 - main.py[line:181] - INFO: Epoch: 390; eval pIoU: 83.11%; eval cIoU: 78.49%; train pIoU: 85.19%; train cIoU: 81.24%
+2021-12-05 20:07:04,230 - main.py[line:181] - INFO: Epoch: 391; eval pIoU: 83.22%; eval cIoU: 78.51%; train pIoU: 85.23%; train cIoU: 81.37%
+2021-12-05 20:08:40,878 - main.py[line:181] - INFO: Epoch: 392; eval pIoU: 83.33%; eval cIoU: 78.65%; train pIoU: 85.25%; train cIoU: 81.33%
+2021-12-05 20:10:17,707 - main.py[line:181] - INFO: Epoch: 393; eval pIoU: 83.34%; eval cIoU: 78.63%; train pIoU: 85.32%; train cIoU: 81.51%
+2021-12-05 20:11:54,266 - main.py[line:181] - INFO: Epoch: 394; eval pIoU: 83.33%; eval cIoU: 78.58%; train pIoU: 85.26%; train cIoU: 81.21%
+2021-12-05 20:13:30,321 - main.py[line:181] - INFO: Epoch: 395; eval pIoU: 83.23%; eval cIoU: 78.39%; train pIoU: 85.23%; train cIoU: 81.33%
+2021-12-05 20:15:06,378 - main.py[line:181] - INFO: Epoch: 396; eval pIoU: 83.28%; eval cIoU: 78.44%; train pIoU: 85.28%; train cIoU: 81.31%
+2021-12-05 20:16:42,362 - main.py[line:181] - INFO: Epoch: 397; eval pIoU: 83.27%; eval cIoU: 78.51%; train pIoU: 85.28%; train cIoU: 81.27%
+2021-12-05 20:18:18,422 - main.py[line:181] - INFO: Epoch: 398; eval pIoU: 83.30%; eval cIoU: 78.54%; train pIoU: 85.22%; train cIoU: 81.24%
+2021-12-05 20:19:54,743 - main.py[line:181] - INFO: Epoch: 399; eval pIoU: 83.23%; eval cIoU: 78.28%; train pIoU: 85.23%; train cIoU: 81.09%
+2021-12-05 20:21:30,894 - main.py[line:181] - INFO: Epoch: 400; eval pIoU: 83.30%; eval cIoU: 78.70%; train pIoU: 85.26%; train cIoU: 81.37%
+2021-12-05 20:23:07,097 - main.py[line:181] - INFO: Epoch: 401; eval pIoU: 83.39%; eval cIoU: 78.65%; train pIoU: 85.38%; train cIoU: 81.53%
+2021-12-05 20:23:07,100 - main.py[line:186] - INFO: New best model is achieved at epoch 401 with eval pIoU as 83.39%
+2021-12-05 20:24:42,540 - main.py[line:181] - INFO: Epoch: 402; eval pIoU: 83.38%; eval cIoU: 78.71%; train pIoU: 85.42%; train cIoU: 81.38%
+2021-12-05 20:26:18,007 - main.py[line:181] - INFO: Epoch: 403; eval pIoU: 83.40%; eval cIoU: 78.80%; train pIoU: 85.40%; train cIoU: 81.71%
+2021-12-05 20:26:18,011 - main.py[line:186] - INFO: New best model is achieved at epoch 403 with eval pIoU as 83.40%
+2021-12-05 20:27:53,505 - main.py[line:181] - INFO: Epoch: 404; eval pIoU: 83.39%; eval cIoU: 78.86%; train pIoU: 85.39%; train cIoU: 81.46%
+2021-12-05 20:29:28,984 - main.py[line:181] - INFO: Epoch: 405; eval pIoU: 83.32%; eval cIoU: 78.74%; train pIoU: 85.52%; train cIoU: 81.58%
+2021-12-05 20:31:04,490 - main.py[line:181] - INFO: Epoch: 406; eval pIoU: 83.38%; eval cIoU: 78.78%; train pIoU: 85.44%; train cIoU: 81.61%
+2021-12-05 20:32:39,995 - main.py[line:181] - INFO: Epoch: 407; eval pIoU: 83.43%; eval cIoU: 78.78%; train pIoU: 85.43%; train cIoU: 81.62%
+2021-12-05 20:32:39,999 - main.py[line:186] - INFO: New best model is achieved at epoch 407 with eval pIoU as 83.43%
+2021-12-05 20:34:15,524 - main.py[line:181] - INFO: Epoch: 408; eval pIoU: 83.34%; eval cIoU: 78.66%; train pIoU: 85.45%; train cIoU: 81.70%
+2021-12-05 20:35:51,023 - main.py[line:181] - INFO: Epoch: 409; eval pIoU: 83.26%; eval cIoU: 78.58%; train pIoU: 85.45%; train cIoU: 81.85%
+2021-12-05 20:37:26,531 - main.py[line:181] - INFO: Epoch: 410; eval pIoU: 83.38%; eval cIoU: 78.73%; train pIoU: 85.41%; train cIoU: 81.67%
+2021-12-05 20:39:02,028 - main.py[line:181] - INFO: Epoch: 411; eval pIoU: 83.32%; eval cIoU: 78.73%; train pIoU: 85.46%; train cIoU: 81.74%
+2021-12-05 20:40:37,461 - main.py[line:181] - INFO: Epoch: 412; eval pIoU: 83.41%; eval cIoU: 78.72%; train pIoU: 85.45%; train cIoU: 81.64%
+2021-12-05 20:42:12,916 - main.py[line:181] - INFO: Epoch: 413; eval pIoU: 83.33%; eval cIoU: 78.72%; train pIoU: 85.48%; train cIoU: 81.66%
+2021-12-05 20:43:48,360 - main.py[line:181] - INFO: Epoch: 414; eval pIoU: 83.39%; eval cIoU: 78.77%; train pIoU: 85.41%; train cIoU: 81.45%
+2021-12-05 20:45:23,780 - main.py[line:181] - INFO: Epoch: 415; eval pIoU: 83.34%; eval cIoU: 78.81%; train pIoU: 85.47%; train cIoU: 81.61%
+2021-12-05 20:46:59,194 - main.py[line:181] - INFO: Epoch: 416; eval pIoU: 83.37%; eval cIoU: 78.79%; train pIoU: 85.44%; train cIoU: 81.50%
+2021-12-05 20:48:34,615 - main.py[line:181] - INFO: Epoch: 417; eval pIoU: 83.32%; eval cIoU: 78.72%; train pIoU: 85.49%; train cIoU: 81.60%
+2021-12-05 20:50:10,027 - main.py[line:181] - INFO: Epoch: 418; eval pIoU: 83.35%; eval cIoU: 78.74%; train pIoU: 85.43%; train cIoU: 81.82%
+2021-12-05 20:51:45,438 - main.py[line:181] - INFO: Epoch: 419; eval pIoU: 83.40%; eval cIoU: 78.79%; train pIoU: 85.42%; train cIoU: 81.55%
+2021-12-05 20:53:20,835 - main.py[line:181] - INFO: Epoch: 420; eval pIoU: 83.33%; eval cIoU: 78.81%; train pIoU: 85.48%; train cIoU: 81.84%
+2021-12-05 20:54:56,236 - main.py[line:181] - INFO: Epoch: 421; eval pIoU: 83.42%; eval cIoU: 78.77%; train pIoU: 85.50%; train cIoU: 81.74%
+2021-12-05 20:56:31,620 - main.py[line:181] - INFO: Epoch: 422; eval pIoU: 83.33%; eval cIoU: 78.76%; train pIoU: 85.44%; train cIoU: 81.51%
+2021-12-05 20:58:07,054 - main.py[line:181] - INFO: Epoch: 423; eval pIoU: 83.34%; eval cIoU: 78.85%; train pIoU: 85.49%; train cIoU: 81.84%
+2021-12-05 20:59:42,509 - main.py[line:181] - INFO: Epoch: 424; eval pIoU: 83.36%; eval cIoU: 78.71%; train pIoU: 85.47%; train cIoU: 81.70%
+2021-12-05 21:01:17,928 - main.py[line:181] - INFO: Epoch: 425; eval pIoU: 83.35%; eval cIoU: 78.94%; train pIoU: 85.46%; train cIoU: 81.73%
+2021-12-05 21:02:53,336 - main.py[line:181] - INFO: Epoch: 426; eval pIoU: 83.28%; eval cIoU: 78.79%; train pIoU: 85.46%; train cIoU: 81.70%
+2021-12-05 21:04:28,769 - main.py[line:181] - INFO: Epoch: 427; eval pIoU: 83.33%; eval cIoU: 78.60%; train pIoU: 85.53%; train cIoU: 81.90%
+2021-12-05 21:06:04,144 - main.py[line:181] - INFO: Epoch: 428; eval pIoU: 83.38%; eval cIoU: 78.78%; train pIoU: 85.47%; train cIoU: 81.69%
+2021-12-05 21:07:39,534 - main.py[line:181] - INFO: Epoch: 429; eval pIoU: 83.37%; eval cIoU: 78.82%; train pIoU: 85.47%; train cIoU: 81.81%
+2021-12-05 21:09:14,940 - main.py[line:181] - INFO: Epoch: 430; eval pIoU: 83.33%; eval cIoU: 78.74%; train pIoU: 85.52%; train cIoU: 81.54%
+2021-12-05 21:10:50,325 - main.py[line:181] - INFO: Epoch: 431; eval pIoU: 83.35%; eval cIoU: 78.79%; train pIoU: 85.47%; train cIoU: 81.59%
+2021-12-05 21:12:25,777 - main.py[line:181] - INFO: Epoch: 432; eval pIoU: 83.37%; eval cIoU: 78.90%; train pIoU: 85.52%; train cIoU: 81.51%
+2021-12-05 21:14:01,280 - main.py[line:181] - INFO: Epoch: 433; eval pIoU: 83.38%; eval cIoU: 78.82%; train pIoU: 85.49%; train cIoU: 81.62%
+2021-12-05 21:15:36,820 - main.py[line:181] - INFO: Epoch: 434; eval pIoU: 83.42%; eval cIoU: 78.80%; train pIoU: 85.46%; train cIoU: 81.52%
+2021-12-05 21:17:12,242 - main.py[line:181] - INFO: Epoch: 435; eval pIoU: 83.36%; eval cIoU: 78.63%; train pIoU: 85.45%; train cIoU: 81.69%
+2021-12-05 21:18:47,661 - main.py[line:181] - INFO: Epoch: 436; eval pIoU: 83.38%; eval cIoU: 78.88%; train pIoU: 85.47%; train cIoU: 81.48%
+2021-12-05 21:20:23,073 - main.py[line:181] - INFO: Epoch: 437; eval pIoU: 83.40%; eval cIoU: 78.73%; train pIoU: 85.41%; train cIoU: 81.92%
+2021-12-05 21:21:58,486 - main.py[line:181] - INFO: Epoch: 438; eval pIoU: 83.37%; eval cIoU: 78.80%; train pIoU: 85.50%; train cIoU: 81.86%
+2021-12-05 21:23:33,879 - main.py[line:181] - INFO: Epoch: 439; eval pIoU: 83.36%; eval cIoU: 78.68%; train pIoU: 85.52%; train cIoU: 81.68%
+2021-12-05 21:25:09,258 - main.py[line:181] - INFO: Epoch: 440; eval pIoU: 83.31%; eval cIoU: 78.67%; train pIoU: 85.52%; train cIoU: 81.57%
+2021-12-05 21:26:44,622 - main.py[line:181] - INFO: Epoch: 441; eval pIoU: 83.32%; eval cIoU: 78.68%; train pIoU: 85.47%; train cIoU: 81.75%
+2021-12-05 21:28:19,993 - main.py[line:181] - INFO: Epoch: 442; eval pIoU: 83.35%; eval cIoU: 78.65%; train pIoU: 85.44%; train cIoU: 81.46%
+2021-12-05 21:29:55,332 - main.py[line:181] - INFO: Epoch: 443; eval pIoU: 83.28%; eval cIoU: 78.57%; train pIoU: 85.43%; train cIoU: 81.45%
+2021-12-05 21:31:30,717 - main.py[line:181] - INFO: Epoch: 444; eval pIoU: 83.35%; eval cIoU: 78.72%; train pIoU: 85.49%; train cIoU: 81.55%
+2021-12-05 21:33:06,062 - main.py[line:181] - INFO: Epoch: 445; eval pIoU: 83.36%; eval cIoU: 78.54%; train pIoU: 85.49%; train cIoU: 81.77%
+2021-12-05 21:34:41,422 - main.py[line:181] - INFO: Epoch: 446; eval pIoU: 83.31%; eval cIoU: 78.71%; train pIoU: 85.51%; train cIoU: 81.54%
+2021-12-05 21:36:16,789 - main.py[line:181] - INFO: Epoch: 447; eval pIoU: 83.33%; eval cIoU: 78.68%; train pIoU: 85.52%; train cIoU: 81.75%
+2021-12-05 21:37:52,147 - main.py[line:181] - INFO: Epoch: 448; eval pIoU: 83.26%; eval cIoU: 78.64%; train pIoU: 85.48%; train cIoU: 81.63%
+2021-12-05 21:39:27,496 - main.py[line:181] - INFO: Epoch: 449; eval pIoU: 83.33%; eval cIoU: 78.65%; train pIoU: 85.47%; train cIoU: 81.61%
+2021-12-05 21:41:02,883 - main.py[line:181] - INFO: Epoch: 450; eval pIoU: 83.38%; eval cIoU: 78.83%; train pIoU: 85.46%; train cIoU: 81.54%
+2021-12-05 21:42:38,229 - main.py[line:181] - INFO: Epoch: 451; eval pIoU: 83.39%; eval cIoU: 78.63%; train pIoU: 85.46%; train cIoU: 81.61%
+2021-12-05 21:44:13,578 - main.py[line:181] - INFO: Epoch: 452; eval pIoU: 83.35%; eval cIoU: 78.73%; train pIoU: 85.53%; train cIoU: 81.72%
+2021-12-05 21:45:49,003 - main.py[line:181] - INFO: Epoch: 453; eval pIoU: 83.38%; eval cIoU: 78.78%; train pIoU: 85.48%; train cIoU: 81.48%
+2021-12-05 21:47:24,409 - main.py[line:181] - INFO: Epoch: 454; eval pIoU: 83.33%; eval cIoU: 78.67%; train pIoU: 85.47%; train cIoU: 81.72%
+2021-12-05 21:48:59,841 - main.py[line:181] - INFO: Epoch: 455; eval pIoU: 83.31%; eval cIoU: 78.78%; train pIoU: 85.51%; train cIoU: 81.63%
+2021-12-05 21:50:35,293 - main.py[line:181] - INFO: Epoch: 456; eval pIoU: 83.33%; eval cIoU: 78.61%; train pIoU: 85.49%; train cIoU: 81.74%
+2021-12-05 21:52:10,663 - main.py[line:181] - INFO: Epoch: 457; eval pIoU: 83.33%; eval cIoU: 78.86%; train pIoU: 85.43%; train cIoU: 81.33%
+2021-12-05 21:53:46,014 - main.py[line:181] - INFO: Epoch: 458; eval pIoU: 83.34%; eval cIoU: 78.73%; train pIoU: 85.52%; train cIoU: 81.70%
+2021-12-05 21:55:21,345 - main.py[line:181] - INFO: Epoch: 459; eval pIoU: 83.38%; eval cIoU: 78.80%; train pIoU: 85.48%; train cIoU: 81.52%
+2021-12-05 21:56:56,689 - main.py[line:181] - INFO: Epoch: 460; eval pIoU: 83.36%; eval cIoU: 78.76%; train pIoU: 85.41%; train cIoU: 81.64%
+2021-12-05 21:58:32,033 - main.py[line:181] - INFO: Epoch: 461; eval pIoU: 83.41%; eval cIoU: 78.79%; train pIoU: 85.47%; train cIoU: 81.67%
+2021-12-05 22:00:07,385 - main.py[line:181] - INFO: Epoch: 462; eval pIoU: 83.36%; eval cIoU: 78.81%; train pIoU: 85.52%; train cIoU: 81.73%
+2021-12-05 22:01:42,755 - main.py[line:181] - INFO: Epoch: 463; eval pIoU: 83.40%; eval cIoU: 78.86%; train pIoU: 85.46%; train cIoU: 81.76%
+2021-12-05 22:03:18,123 - main.py[line:181] - INFO: Epoch: 464; eval pIoU: 83.38%; eval cIoU: 78.71%; train pIoU: 85.44%; train cIoU: 81.81%
+2021-12-05 22:04:54,648 - main.py[line:181] - INFO: Epoch: 465; eval pIoU: 83.33%; eval cIoU: 78.65%; train pIoU: 85.49%; train cIoU: 81.67%
+2021-12-05 22:06:31,122 - main.py[line:181] - INFO: Epoch: 466; eval pIoU: 83.37%; eval cIoU: 78.86%; train pIoU: 85.51%; train cIoU: 81.65%
+2021-12-05 22:08:06,891 - main.py[line:181] - INFO: Epoch: 467; eval pIoU: 83.34%; eval cIoU: 78.78%; train pIoU: 85.46%; train cIoU: 81.75%
+2021-12-05 22:09:42,224 - main.py[line:181] - INFO: Epoch: 468; eval pIoU: 83.37%; eval cIoU: 78.77%; train pIoU: 85.54%; train cIoU: 81.77%
+2021-12-05 22:11:17,567 - main.py[line:181] - INFO: Epoch: 469; eval pIoU: 83.37%; eval cIoU: 78.72%; train pIoU: 85.48%; train cIoU: 81.70%
+2021-12-05 22:12:52,903 - main.py[line:181] - INFO: Epoch: 470; eval pIoU: 83.40%; eval cIoU: 78.81%; train pIoU: 85.46%; train cIoU: 81.61%
+2021-12-05 22:14:28,266 - main.py[line:181] - INFO: Epoch: 471; eval pIoU: 83.41%; eval cIoU: 78.96%; train pIoU: 85.54%; train cIoU: 81.94%
+2021-12-05 22:16:03,987 - main.py[line:181] - INFO: Epoch: 472; eval pIoU: 83.37%; eval cIoU: 78.85%; train pIoU: 85.52%; train cIoU: 81.87%
+2021-12-05 22:17:40,703 - main.py[line:181] - INFO: Epoch: 473; eval pIoU: 83.33%; eval cIoU: 78.70%; train pIoU: 85.53%; train cIoU: 81.73%
+2021-12-05 22:19:17,283 - main.py[line:181] - INFO: Epoch: 474; eval pIoU: 83.41%; eval cIoU: 78.75%; train pIoU: 85.47%; train cIoU: 81.54%
+2021-12-05 22:20:52,725 - main.py[line:181] - INFO: Epoch: 475; eval pIoU: 83.40%; eval cIoU: 78.70%; train pIoU: 85.58%; train cIoU: 81.90%
+2021-12-05 22:22:28,092 - main.py[line:181] - INFO: Epoch: 476; eval pIoU: 83.32%; eval cIoU: 78.73%; train pIoU: 85.51%; train cIoU: 81.59%
+2021-12-05 22:24:03,484 - main.py[line:181] - INFO: Epoch: 477; eval pIoU: 83.28%; eval cIoU: 78.62%; train pIoU: 85.52%; train cIoU: 81.63%
+2021-12-05 22:25:38,856 - main.py[line:181] - INFO: Epoch: 478; eval pIoU: 83.36%; eval cIoU: 78.82%; train pIoU: 85.58%; train cIoU: 81.81%
+2021-12-05 22:27:14,202 - main.py[line:181] - INFO: Epoch: 479; eval pIoU: 83.33%; eval cIoU: 78.74%; train pIoU: 85.42%; train cIoU: 81.48%
+2021-12-05 22:28:49,533 - main.py[line:181] - INFO: Epoch: 480; eval pIoU: 83.28%; eval cIoU: 78.47%; train pIoU: 85.45%; train cIoU: 81.64%
+2021-12-05 22:30:24,877 - main.py[line:181] - INFO: Epoch: 481; eval pIoU: 83.31%; eval cIoU: 78.72%; train pIoU: 85.40%; train cIoU: 81.33%
+2021-12-05 22:32:00,198 - main.py[line:181] - INFO: Epoch: 482; eval pIoU: 83.37%; eval cIoU: 78.66%; train pIoU: 85.48%; train cIoU: 81.82%
+2021-12-05 22:33:35,560 - main.py[line:181] - INFO: Epoch: 483; eval pIoU: 83.34%; eval cIoU: 78.63%; train pIoU: 85.43%; train cIoU: 81.69%
+2021-12-05 22:35:10,941 - main.py[line:181] - INFO: Epoch: 484; eval pIoU: 83.37%; eval cIoU: 78.80%; train pIoU: 85.46%; train cIoU: 81.48%
+2021-12-05 22:36:46,315 - main.py[line:181] - INFO: Epoch: 485; eval pIoU: 83.35%; eval cIoU: 78.63%; train pIoU: 85.48%; train cIoU: 81.62%
+2021-12-05 22:38:21,689 - main.py[line:181] - INFO: Epoch: 486; eval pIoU: 83.39%; eval cIoU: 78.80%; train pIoU: 85.46%; train cIoU: 81.32%
+2021-12-05 22:39:57,026 - main.py[line:181] - INFO: Epoch: 487; eval pIoU: 83.38%; eval cIoU: 78.71%; train pIoU: 85.45%; train cIoU: 81.54%
+2021-12-05 22:41:32,373 - main.py[line:181] - INFO: Epoch: 488; eval pIoU: 83.35%; eval cIoU: 78.83%; train pIoU: 85.47%; train cIoU: 81.59%
+2021-12-05 22:43:07,751 - main.py[line:181] - INFO: Epoch: 489; eval pIoU: 83.36%; eval cIoU: 78.75%; train pIoU: 85.54%; train cIoU: 81.68%
+2021-12-05 22:44:43,100 - main.py[line:181] - INFO: Epoch: 490; eval pIoU: 83.34%; eval cIoU: 78.54%; train pIoU: 85.52%; train cIoU: 81.83%
+2021-12-05 22:46:18,517 - main.py[line:181] - INFO: Epoch: 491; eval pIoU: 83.36%; eval cIoU: 78.75%; train pIoU: 85.50%; train cIoU: 81.82%
+2021-12-05 22:47:53,948 - main.py[line:181] - INFO: Epoch: 492; eval pIoU: 83.38%; eval cIoU: 78.69%; train pIoU: 85.53%; train cIoU: 81.77%
+2021-12-05 22:49:29,405 - main.py[line:181] - INFO: Epoch: 493; eval pIoU: 83.39%; eval cIoU: 78.71%; train pIoU: 85.46%; train cIoU: 81.54%
+2021-12-05 22:51:04,805 - main.py[line:181] - INFO: Epoch: 494; eval pIoU: 83.37%; eval cIoU: 78.83%; train pIoU: 85.44%; train cIoU: 81.62%
+2021-12-05 22:52:40,154 - main.py[line:181] - INFO: Epoch: 495; eval pIoU: 83.34%; eval cIoU: 78.70%; train pIoU: 85.46%; train cIoU: 81.59%
+2021-12-05 22:54:15,506 - main.py[line:181] - INFO: Epoch: 496; eval pIoU: 83.42%; eval cIoU: 78.75%; train pIoU: 85.54%; train cIoU: 81.69%
+2021-12-05 22:55:50,881 - main.py[line:181] - INFO: Epoch: 497; eval pIoU: 83.35%; eval cIoU: 78.71%; train pIoU: 85.47%; train cIoU: 81.48%
+2021-12-05 22:57:26,264 - main.py[line:181] - INFO: Epoch: 498; eval pIoU: 83.40%; eval cIoU: 78.68%; train pIoU: 85.45%; train cIoU: 81.66%
+2021-12-05 22:59:01,638 - main.py[line:181] - INFO: Epoch: 499; eval pIoU: 83.37%; eval cIoU: 78.88%; train pIoU: 85.51%; train cIoU: 81.75%
+2021-12-05 23:00:37,044 - main.py[line:181] - INFO: Epoch: 500; eval pIoU: 83.33%; eval cIoU: 78.68%; train pIoU: 85.42%; train cIoU: 81.46%
+2021-12-05 23:00:37,048 - main.py[line:189] - INFO: Best model is achieved at epoch 407 with eval pIoU as 83.43%
