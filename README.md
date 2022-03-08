@@ -1,6 +1,6 @@
 # DuMLP-Pin
 
-This repo is the official implementation of "DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction". It includes codes and models for the following tasks:
+This repo is the official implementation of "DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction" (AAAI 2022). It includes codes and models for the following tasks:
 
 | Task | Dataset | Evaluation Metric | Value (%)
 | :------: | :------: | :------: | :------: |
