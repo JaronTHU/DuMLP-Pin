@@ -35,10 +35,10 @@ conda activate dmpp
 conda install pytorch==1.8.1 cudatoolkit=11.1
 ```
 
-- Install `tqdm` and `tensorboard`:
+- Install `h5py`, `tqdm` and `tensorboard`:
 
 ```bash
-conda install tqdm==4.59.0 tensorboard==2.4.0
+conda install h5py tqdm==4.59.0 tensorboard==2.4.0
 ```
 
 ### Quick Start
@@ -53,6 +53,7 @@ The template is:
 
 Some examples:
 ```
+chmod +x my_script.sh
 ./my_script.sh train ModelNet40 0
 ./my_script.sh train ShapeNetPart 0 S
 ./my_script.sh eval ShapeNetPart -1 L # -1 for CPU
