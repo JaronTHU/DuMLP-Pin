@@ -15,8 +15,8 @@ fi
 DATA_CLS=My${TASK}
 DATA_DIR=${TASK}/datasets
 
-# fill these for your usage
-MODEL_LOAD_PATH=fill/this/for/your/usage
+# fill this for your usage
+MODEL_LOAD_PATH=ModelNet40/models/2021-12-05-09-40-28/best_model.pth
 
 if test "${MODE}" = train; then
   if test "${TASK}" = ModelNet40; then
