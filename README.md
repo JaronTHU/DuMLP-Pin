@@ -1,6 +1,6 @@
 # DuMLP-Pin
 
-This repo is the official implementation of "DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction". It includes code and models for the following tasks:
+This repo is the official implementation of "DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction". It includes codes and models for the following tasks:
 
 | Task | Dataset | Evaluation Metric | Value (%)
 | :------: | :------: | :------: | :------: |
@@ -43,7 +43,7 @@ conda install h5py tqdm==4.59.0 tensorboard==2.4.0
 
 ### Quick Start
 
-We provide several examples in `my_script.sh`, which includes some commands to reproduce our results in the paper. Please fill in the values of `MODEL_SAVE_DIR`, `MODEL_LOAD_PATH` and `DATA_DIR` for your usage.
+We provide several examples in `my_script.sh`, which includes some commands to reproduce our results in the paper. Please fill in the value of `MODEL_LOAD_PATH` for your usage.
 
 The template is:
 
