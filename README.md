@@ -83,6 +83,18 @@ Models and datasets are grouped as follows. For ShapeNetPart, we have two models
 ### Citation
 
 ```
+@article{Fei_Zhu_Liu_Deng_Li_Deng_Zhang_2022,
+  title={DuMLP-Pin: A Dual-MLP-Dot-Product Permutation-Invariant Network for Set Feature Extraction},
+  volume={36},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/19939},
+  DOI={10.1609/aaai.v36i1.19939},
+  number={1},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Fei, Jiajun and Zhu, Ziyu and Liu, Wenlei and Deng, Zhidong and Li, Mingyang and Deng, Huanjun and Zhang, Shuo},
+  year={2022},
+  month={Jun.},
+  pages={598-606}
+}
 ```
 
 ### Contact
